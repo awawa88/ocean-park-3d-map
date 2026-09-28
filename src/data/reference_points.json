@@ -1,0 +1,2781 @@
+[
+  {
+    "latitude": 22.248665,
+    "longitude": 114.174318,
+    "pixelX": 537,
+    "pixelY": 1745,
+    "label": "1 MTR station Exit B"
+  },
+  {
+    "latitude": 22.248342,
+    "longitude": 114.17443,
+    "pixelX": 565,
+    "pixelY": 1705,
+    "label": "2 footbridge"
+  },
+  {
+    "latitude": 22.248234,
+    "longitude": 114.174468,
+    "pixelX": 580,
+    "pixelY": 1678,
+    "label": "3 footbright 1"
+  },
+  {
+    "latitude": 22.248161,
+    "longitude": 114.174509,
+    "pixelX": 571,
+    "pixelY": 1637,
+    "label": "4 Ocean Square outside"
+  },
+  {
+    "latitude": 22.248071,
+    "longitude": 114.174622,
+    "pixelX": 588,
+    "pixelY": 1646,
+    "label": "4a Ocean Square outside 2"
+  },
+  {
+    "latitude": 22.248016,
+    "longitude": 114.174823,
+    "pixelX": 552,
+    "pixelY": 1610,
+    "label": "5 Ocean Square outside 3"
+  },
+  {
+    "latitude": 22.248016,
+    "longitude": 114.174823,
+    "pixelX": 552,
+    "pixelY": 1610,
+    "label": "5 Ocean Square outside 1"
+  },
+  {
+    "latitude": 22.248082,
+    "longitude": 114.1747,
+    "pixelX": 558,
+    "pixelY": 1624,
+    "label": "5a Ocean Square outside 4"
+  },
+  {
+    "latitude": 22.247912,
+    "longitude": 114.174964,
+    "pixelX": 548,
+    "pixelY": 1578,
+    "label": "6 bag check near hotel outside"
+  },
+  {
+    "latitude": 22.248024,
+    "longitude": 114.174455,
+    "pixelX": 607,
+    "pixelY": 1652,
+    "label": "7 bag check outside"
+  },
+  {
+    "latitude": 22.24802,
+    "longitude": 114.174269,
+    "pixelX": 627,
+    "pixelY": 1669,
+    "label": "7a bag check outside2"
+  },
+  {
+    "latitude": 22.247952,
+    "longitude": 114.174539,
+    "pixelX": 609,
+    "pixelY": 1630,
+    "label": "8 Bag Check Counter near police school"
+  },
+  {
+    "latitude": 22.247977,
+    "longitude": 114.174503,
+    "pixelX": 597,
+    "pixelY": 1618,
+    "label": "8a Bag Check Counter near police school2"
+  },
+  {
+    "latitude": 22.247847,
+    "longitude": 114.174483,
+    "pixelX": 636,
+    "pixelY": 1613,
+    "label": "9 Ocean Square near police school"
+  },
+  {
+    "latitude": 22.247988,
+    "longitude": 114.174227,
+    "pixelX": 654,
+    "pixelY": 1666,
+    "label": "10 Escalator to bus station1"
+  },
+  {
+    "latitude": 22.247851,
+    "longitude": 114.174009,
+    "pixelX": 697,
+    "pixelY": 1662,
+    "label": "10 Escalator to bus station"
+  },
+  {
+    "latitude": 22.247851,
+    "longitude": 114.174009,
+    "pixelX": 697,
+    "pixelY": 1662,
+    "label": "10a Escalator to bus station2"
+  },
+  {
+    "latitude": 22.24773,
+    "longitude": 114.174037,
+    "pixelX": 715,
+    "pixelY": 1634,
+    "label": "10b Escalator to bus station3"
+  },
+  {
+    "latitude": 22.247599,
+    "longitude": 114.174062,
+    "pixelX": 734,
+    "pixelY": 1609,
+    "label": "11 Pathway to Bus Station"
+  },
+  {
+    "latitude": 22.247376,
+    "longitude": 114.174153,
+    "pixelX": 726,
+    "pixelY": 1590,
+    "label": "11a Pathway to Bus Station2"
+  },
+  {
+    "latitude": 22.247125,
+    "longitude": 114.174157,
+    "pixelX": 735,
+    "pixelY": 1563,
+    "label": "12 Water World Shuttle Bus Station"
+  },
+  {
+    "latitude": 22.247561,
+    "longitude": 114.174405,
+    "pixelX": 684,
+    "pixelY": 1571,
+    "label": "13 HSBC ATM"
+  },
+  {
+    "latitude": 22.24795,
+    "longitude": 114.17473,
+    "pixelX": 581,
+    "pixelY": 1602,
+    "label": "14 next to Bag check Counter next to Hotel"
+  },
+  {
+    "latitude": 22.248013,
+    "longitude": 114.174801,
+    "pixelX": 570,
+    "pixelY": 1606,
+    "label": "14 Bag Check Counter near Hotel"
+  },
+  {
+    "latitude": 22.247988,
+    "longitude": 114.174743,
+    "pixelX": 572,
+    "pixelY": 1590,
+    "label": "14a next to Bag check Counter next to Hotel2"
+  },
+  {
+    "latitude": 22.247802,
+    "longitude": 114.174866,
+    "pixelX": 578,
+    "pixelY": 1576,
+    "label": "15 Croco Land"
+  },
+  {
+    "latitude": 22.247545,
+    "longitude": 114.174775,
+    "pixelX": 621,
+    "pixelY": 1525,
+    "label": "16 Ticketing Counter"
+  },
+  {
+    "latitude": 22.247519,
+    "longitude": 114.17489,
+    "pixelX": 597,
+    "pixelY": 1540,
+    "label": "17 Ticketing Counter Toliet"
+  },
+  {
+    "latitude": 22.247718,
+    "longitude": 114.17473,
+    "pixelX": 607,
+    "pixelY": 1568,
+    "label": "17a Outside Ticketing Counter"
+  },
+  {
+    "latitude": 22.248219,
+    "longitude": 114.1751,
+    "pixelX": 475,
+    "pixelY": 1626,
+    "label": "18 Escalator from Marriott Hotel"
+  },
+  {
+    "latitude": 22.248425,
+    "longitude": 114.174779,
+    "pixelX": 505,
+    "pixelY": 1686,
+    "label": "19 Taxi station"
+  },
+  {
+    "latitude": 22.248284,
+    "longitude": 114.175044,
+    "pixelX": 485,
+    "pixelY": 1655,
+    "label": "19a Taxi station pathway"
+  },
+  {
+    "latitude": 22.248345,
+    "longitude": 114.174688,
+    "pixelX": 532,
+    "pixelY": 1703,
+    "label": "19b Taxi station pathway2"
+  },
+  {
+    "latitude": 22.247928,
+    "longitude": 114.17522,
+    "pixelX": 547,
+    "pixelY": 1592,
+    "label": "20 Car park Shroff Office"
+  },
+  {
+    "latitude": 22.248065,
+    "longitude": 114.175054,
+    "pixelX": 505,
+    "pixelY": 1598,
+    "label": "21 Escalator from Marriott Hotel2"
+  },
+  {
+    "latitude": 22.247947,
+    "longitude": 114.174975,
+    "pixelX": 510,
+    "pixelY": 1615,
+    "label": "21 Car park Toilet"
+  },
+  {
+    "latitude": 22.247699,
+    "longitude": 114.174617,
+    "pixelX": 631,
+    "pixelY": 1566,
+    "label": "22 Main Entrance"
+  },
+  {
+    "latitude": 22.247648,
+    "longitude": 114.174452,
+    "pixelX": 645,
+    "pixelY": 1577,
+    "label": "22a Pathway of Ocean Square"
+  },
+  {
+    "latitude": 22.247767,
+    "longitude": 114.174456,
+    "pixelX": 650,
+    "pixelY": 1593,
+    "label": "22b Pathway of Ocean Square2"
+  },
+  {
+    "latitude": 22.247358,
+    "longitude": 114.174603,
+    "pixelX": 682,
+    "pixelY": 1511,
+    "label": "23 To Turnstile"
+  },
+  {
+    "latitude": 22.247325,
+    "longitude": 114.174615,
+    "pixelX": 700,
+    "pixelY": 1466,
+    "label": "23 Turnstile"
+  },
+  {
+    "latitude": 22.247325,
+    "longitude": 114.174615,
+    "pixelX": 700,
+    "pixelY": 1466,
+    "label": "23a Turnstile"
+  },
+  {
+    "latitude": 22.2472,
+    "longitude": 114.174751,
+    "pixelX": 676,
+    "pixelY": 1433,
+    "label": "24 Waterfront FA Post"
+  },
+  {
+    "latitude": 22.247038,
+    "longitude": 114.174696,
+    "pixelX": 729,
+    "pixelY": 1402,
+    "label": "25 Waterfront Gifts"
+  },
+  {
+    "latitude": 22.247225,
+    "longitude": 114.174608,
+    "pixelX": 745,
+    "pixelY": 1449,
+    "label": "26 Aqua City & Main Entrance"
+  },
+  {
+    "latitude": 22.246868,
+    "longitude": 114.174563,
+    "pixelX": 761,
+    "pixelY": 1376,
+    "label": "27 Aqua City Lagoon Platform"
+  },
+  {
+    "latitude": 22.246976,
+    "longitude": 114.174572,
+    "pixelX": 766,
+    "pixelY": 1403,
+    "label": "27a next to Aqua City Lagoon Platform"
+  },
+  {
+    "latitude": 22.246772,
+    "longitude": 114.174465,
+    "pixelX": 812,
+    "pixelY": 1372,
+    "label": "27b next to Aqua City Lagoon Platform2"
+  },
+  {
+    "latitude": 22.246732,
+    "longitude": 114.174603,
+    "pixelX": 792,
+    "pixelY": 1383,
+    "label": "27c Aqua Lagoon Stage"
+  },
+  {
+    "latitude": 22.246855,
+    "longitude": 114.174738,
+    "pixelX": 732,
+    "pixelY": 1375,
+    "label": "27d Next to Aqua Lagoon Stage"
+  },
+  {
+    "latitude": 22.247078,
+    "longitude": 114.174525,
+    "pixelX": 793,
+    "pixelY": 1420,
+    "label": "28 Lockers, Roller & Wheelchair Rental"
+  },
+  {
+    "latitude": 22.246805,
+    "longitude": 114.174465,
+    "pixelX": 837,
+    "pixelY": 1398,
+    "label": "29 Annual Members Concierge"
+  },
+  {
+    "latitude": 22.24671,
+    "longitude": 114.174401,
+    "pixelX": 881,
+    "pixelY": 1365,
+    "label": "30 Aqua City Bakery"
+  },
+  {
+    "latitude": 22.246564,
+    "longitude": 114.174337,
+    "pixelX": 927,
+    "pixelY": 1351,
+    "label": "31 Toilet near Aqua City Bakery"
+  },
+  {
+    "latitude": 22.246491,
+    "longitude": 114.174257,
+    "pixelX": 987,
+    "pixelY": 1342,
+    "label": "31a Pathway to Grand Aquarium"
+  },
+  {
+    "latitude": 22.246913,
+    "longitude": 114.174824,
+    "pixelX": 708,
+    "pixelY": 1342,
+    "label": "32 Ciao Chow & O So Sweet"
+  },
+  {
+    "latitude": 22.246811,
+    "longitude": 114.175018,
+    "pixelX": 690,
+    "pixelY": 1314,
+    "label": "33 Lakeside Chill Dinning Area"
+  },
+  {
+    "latitude": 22.246602,
+    "longitude": 114.175211,
+    "pixelX": 670,
+    "pixelY": 1266,
+    "label": "34 Ginger Grill"
+  },
+  {
+    "latitude": 22.246472,
+    "longitude": 114.175277,
+    "pixelX": 667,
+    "pixelY": 1209,
+    "label": "34a Next to Ginger Grill"
+  },
+  {
+    "latitude": 22.246448,
+    "longitude": 114.175408,
+    "pixelX": 674,
+    "pixelY": 1173,
+    "label": "35 Aqua City Guest Smoking Area"
+  },
+  {
+    "latitude": 22.246204,
+    "longitude": 114.175384,
+    "pixelX": 700,
+    "pixelY": 1126,
+    "label": "36 Staircase to Applause Pavilion"
+  },
+  {
+    "latitude": 22.246201,
+    "longitude": 114.175317,
+    "pixelX": 711,
+    "pixelY": 1161,
+    "label": "36a Staircase to Applause Pavilion2"
+  },
+  {
+    "latitude": 22.246148,
+    "longitude": 114.175485,
+    "pixelX": 678,
+    "pixelY": 1119,
+    "label": "36b Staircase to Applause Pavilion3"
+  },
+  {
+    "latitude": 22.246256,
+    "longitude": 114.175543,
+    "pixelX": 650,
+    "pixelY": 1130,
+    "label": "37 Decoration area outside Applause Pavilion"
+  },
+  {
+    "latitude": 22.246141,
+    "longitude": 114.175651,
+    "pixelX": 638,
+    "pixelY": 1108,
+    "label": "37a Decoration area outside Applause Pavilion2"
+  },
+  {
+    "latitude": 22.246212,
+    "longitude": 114.175846,
+    "pixelX": 621,
+    "pixelY": 1085,
+    "label": "38 Applause Pavilion plaque"
+  },
+  {
+    "latitude": 22.246092,
+    "longitude": 114.175987,
+    "pixelX": 596,
+    "pixelY": 1022,
+    "label": "39 Under Sea Life Carousel"
+  },
+  {
+    "latitude": 22.246298,
+    "longitude": 114.174319,
+    "pixelX": 1063,
+    "pixelY": 1315,
+    "label": "40 The Grand Aquarium Entrance"
+  },
+  {
+    "latitude": 22.246196,
+    "longitude": 114.17446,
+    "pixelX": 1028,
+    "pixelY": 1324,
+    "label": "40a Next to The Grand Aquarium Entrance"
+  },
+  {
+    "latitude": 22.246184,
+    "longitude": 114.174554,
+    "pixelX": 985,
+    "pixelY": 1308,
+    "label": "41 The Grand Aquarium Escalator"
+  },
+  {
+    "latitude": 22.246166,
+    "longitude": 114.174689,
+    "pixelX": 937,
+    "pixelY": 1304,
+    "label": "42 Neptune's Restaurant Entrance"
+  },
+  {
+    "latitude": 22.246325,
+    "longitude": 114.1747,
+    "pixelX": 950,
+    "pixelY": 1332,
+    "label": "43 In front of The Grand Aquarium"
+  },
+  {
+    "latitude": 22.246078,
+    "longitude": 114.17482,
+    "pixelX": 861,
+    "pixelY": 1305,
+    "label": "44 Aqua City Lagoon near Neptune's Restaurant Entrance"
+  },
+  {
+    "latitude": 22.245989,
+    "longitude": 114.175014,
+    "pixelX": 817,
+    "pixelY": 1238,
+    "label": "45 Aqua City Lagoon"
+  },
+  {
+    "latitude": 22.245916,
+    "longitude": 114.175006,
+    "pixelX": 811,
+    "pixelY": 1184,
+    "label": "45a Aqua City Lagoon2"
+  },
+  {
+    "latitude": 22.24655,
+    "longitude": 114.175476,
+    "pixelX": 615,
+    "pixelY": 1202,
+    "label": "46 Aqua City Lagoon Toliet"
+  },
+  {
+    "latitude": 22.246127,
+    "longitude": 114.175217,
+    "pixelX": 757,
+    "pixelY": 1151,
+    "label": "47 Pearl Bridge"
+  },
+  {
+    "latitude": 22.245925,
+    "longitude": 114.175101,
+    "pixelX": 822,
+    "pixelY": 1142,
+    "label": "48 Aqua City Lagoon Corner"
+  },
+  {
+    "latitude": 22.245827,
+    "longitude": 114.175161,
+    "pixelX": 846,
+    "pixelY": 1101,
+    "label": "48a Next to Aqua City Lagoon Corner"
+  },
+  {
+    "latitude": 22.245775,
+    "longitude": 114.175033,
+    "pixelX": 896,
+    "pixelY": 1132,
+    "label": "49 Toilet near The Grand Aquarium"
+  },
+  {
+    "latitude": 22.245728,
+    "longitude": 114.175256,
+    "pixelX": 894,
+    "pixelY": 1090,
+    "label": "50 HKJCST Exit"
+  },
+  {
+    "latitude": 22.245748,
+    "longitude": 114.175463,
+    "pixelX": 841,
+    "pixelY": 1045,
+    "label": "51 Pathway to Ocean Express"
+  },
+  {
+    "latitude": 22.245637,
+    "longitude": 114.175353,
+    "pixelX": 865,
+    "pixelY": 1071,
+    "label": "51a Pathway to Ocean Express2"
+  },
+  {
+    "latitude": 22.245508,
+    "longitude": 114.175682,
+    "pixelX": 845,
+    "pixelY": 983,
+    "label": "52 Pathway to HKJCST"
+  },
+  {
+    "latitude": 22.245542,
+    "longitude": 114.175762,
+    "pixelX": 729,
+    "pixelY": 905,
+    "label": "53 Pathway to HKJCST"
+  },
+  {
+    "latitude": 22.245626,
+    "longitude": 114.17564,
+    "pixelX": 771,
+    "pixelY": 950,
+    "label": "54 Beauty of Biodiversity Exhibition"
+  },
+  {
+    "latitude": 22.245658,
+    "longitude": 114.175896,
+    "pixelX": 685,
+    "pixelY": 926,
+    "label": "55 Ocean Express Waterfront Entrance"
+  },
+  {
+    "latitude": 22.245635,
+    "longitude": 114.175721,
+    "pixelX": 726,
+    "pixelY": 956,
+    "label": "55a Next to Ocean Express Waterfront Entrance"
+  },
+  {
+    "latitude": 22.245272,
+    "longitude": 114.175577,
+    "pixelX": 773,
+    "pixelY": 859,
+    "label": "55a Ocean Express Entrance Inside"
+  },
+  {
+    "latitude": 22.245701,
+    "longitude": 114.176062,
+    "pixelX": 654,
+    "pixelY": 889,
+    "label": "56 Ocean Express Waterfront Exit"
+  },
+  {
+    "latitude": 22.245801,
+    "longitude": 114.176013,
+    "pixelX": 647,
+    "pixelY": 946,
+    "label": "57 Waterfront Plaza"
+  },
+  {
+    "latitude": 22.245949,
+    "longitude": 114.176084,
+    "pixelX": 616,
+    "pixelY": 974,
+    "label": "57b Waterfront Plaza3"
+  },
+  {
+    "latitude": 22.24601,
+    "longitude": 114.176278,
+    "pixelX": 605,
+    "pixelY": 914,
+    "label": "58 Pathway Entrance to Old Hong Kong 1"
+  },
+  {
+    "latitude": 22.24601,
+    "longitude": 114.176278,
+    "pixelX": 605,
+    "pixelY": 914,
+    "label": "58 Pathway Entrance to Old Hong Kong"
+  },
+  {
+    "latitude": 22.24595,
+    "longitude": 114.176289,
+    "pixelX": 589,
+    "pixelY": 895,
+    "label": "58a Pathway Entrance to Old Hong Kong 2"
+  },
+  {
+    "latitude": 22.246119,
+    "longitude": 114.176331,
+    "pixelX": 567,
+    "pixelY": 909,
+    "label": "58b Pathway Entrance to Old Hong Kong 3"
+  },
+  {
+    "latitude": 22.246187,
+    "longitude": 114.176503,
+    "pixelX": 535,
+    "pixelY": 907,
+    "label": "59 Old Hong Kong Entance"
+  },
+  {
+    "latitude": 22.246023,
+    "longitude": 114.176614,
+    "pixelX": 542,
+    "pixelY": 878,
+    "label": "59a Old Hong Kong Entance2"
+  },
+  {
+    "latitude": 22.246216,
+    "longitude": 114.176359,
+    "pixelX": 529,
+    "pixelY": 962,
+    "label": "60 outside Mammy Pancake"
+  },
+  {
+    "latitude": 22.246172,
+    "longitude": 114.176364,
+    "pixelX": 516,
+    "pixelY": 964,
+    "label": "60 Mammy Pancake"
+  },
+  {
+    "latitude": 22.246272,
+    "longitude": 114.176136,
+    "pixelX": 525,
+    "pixelY": 1010,
+    "label": "61 Sea Life Carousel"
+  },
+  {
+    "latitude": 22.246301,
+    "longitude": 114.176211,
+    "pixelX": 492,
+    "pixelY": 999,
+    "label": "62 Sloth and Friends"
+  },
+  {
+    "latitude": 22.246416,
+    "longitude": 114.176085,
+    "pixelX": 487,
+    "pixelY": 1028,
+    "label": "63 Old Hong Kong game booth"
+  },
+  {
+    "latitude": 22.246447,
+    "longitude": 114.176013,
+    "pixelX": 405,
+    "pixelY": 1041,
+    "label": "64 Ricky's Shack"
+  },
+  {
+    "latitude": 22.246511,
+    "longitude": 114.17593,
+    "pixelX": 423,
+    "pixelY": 1093,
+    "label": "65 Chan's Noodle"
+  },
+  {
+    "latitude": 22.246545,
+    "longitude": 114.175813,
+    "pixelX": 396,
+    "pixelY": 1170,
+    "label": "66 Tramways"
+  },
+  {
+    "latitude": 22.246599,
+    "longitude": 114.175779,
+    "pixelX": 348,
+    "pixelY": 1161,
+    "label": "66a Tramways2"
+  },
+  {
+    "latitude": 22.246581,
+    "longitude": 114.175889,
+    "pixelX": 346,
+    "pixelY": 1088,
+    "label": "67 The Waterfront Cable Car Entrance"
+  },
+  {
+    "latitude": 22.246835,
+    "longitude": 114.176117,
+    "pixelX": 306,
+    "pixelY": 1058,
+    "label": "68 Pathway Cable Car platform"
+  },
+  {
+    "latitude": 22.246902,
+    "longitude": 114.17623,
+    "pixelX": 281,
+    "pixelY": 1016,
+    "label": "69 Pathway Cable Car platform 1"
+  },
+  {
+    "latitude": 22.24689,
+    "longitude": 114.176437,
+    "pixelX": 312,
+    "pixelY": 929,
+    "label": "70 Pathway Cable Car platform 2"
+  },
+  {
+    "latitude": 22.246815,
+    "longitude": 114.176574,
+    "pixelX": 370,
+    "pixelY": 905,
+    "label": "71 Pathway Cable Car platform 3"
+  },
+  {
+    "latitude": 22.246738,
+    "longitude": 114.176549,
+    "pixelX": 428,
+    "pixelY": 905,
+    "label": "72 Pathway Cable Car platform 4"
+  },
+  {
+    "latitude": 22.246738,
+    "longitude": 114.176549,
+    "pixelX": 428,
+    "pixelY": 905,
+    "label": "73 Pathway Cable Car platform 5"
+  },
+  {
+    "latitude": 22.246753,
+    "longitude": 114.176427,
+    "pixelX": 461,
+    "pixelY": 916,
+    "label": "74 Cable Car platform"
+  },
+  {
+    "latitude": 22.246807,
+    "longitude": 114.176402,
+    "pixelX": 385,
+    "pixelY": 942,
+    "label": "75 Cable Car Downstair"
+  },
+  {
+    "latitude": 22.246778,
+    "longitude": 114.176585,
+    "pixelX": 385,
+    "pixelY": 942,
+    "label": "75a Cable Car Exit"
+  },
+  {
+    "latitude": 22.246824,
+    "longitude": 114.176267,
+    "pixelX": 352,
+    "pixelY": 960,
+    "label": "75b Cable Car Exit b"
+  },
+  {
+    "latitude": 22.246842,
+    "longitude": 114.176407,
+    "pixelX": 304,
+    "pixelY": 981,
+    "label": "76 Old Hong Kong disable tolilet"
+  },
+  {
+    "latitude": 22.245724,
+    "longitude": 114.176236,
+    "pixelX": 515,
+    "pixelY": 824,
+    "label": "77 Bamboo Stage"
+  },
+  {
+    "latitude": 22.245678,
+    "longitude": 114.176138,
+    "pixelX": 582,
+    "pixelY": 820,
+    "label": "77a Outside Bamboo Stage"
+  },
+  {
+    "latitude": 22.245831,
+    "longitude": 114.176259,
+    "pixelX": 521,
+    "pixelY": 860,
+    "label": "77b Outside Bamboo Stage2"
+  },
+  {
+    "latitude": 22.245872,
+    "longitude": 114.176312,
+    "pixelX": 531,
+    "pixelY": 870,
+    "label": "77c Outside Bamboo Stage3"
+  },
+  {
+    "latitude": 22.245944,
+    "longitude": 114.176520,
+    "pixelX": 537,
+    "pixelY": 875,
+    "label": "77d Outside Bamboo Stage4"
+  },
+  {
+    "latitude": 22.245556,
+    "longitude": 114.176327,
+    "pixelX": 552,
+    "pixelY": 761,
+    "label": "78 Giant Panda Adventure Entance"
+  },
+  {
+    "latitude": 22.245799,
+    "longitude": 114.176467,
+    "pixelX": 511,
+    "pixelY": 712,
+    "label": "78a Giant Panda Adventure 1"
+  },
+  {
+    "latitude": 22.245629,
+    "longitude": 114.176617,
+    "pixelX": 512,
+    "pixelY": 685,
+    "label": "78b Giant Panda Adventure 2"
+  },
+  {
+    "latitude": 22.245439,
+    "longitude": 114.176704,
+    "pixelX": 542,
+    "pixelY": 673,
+    "label": "78c Giant Panda Adventure 3"
+  },
+  {
+    "latitude": 22.245414,
+    "longitude": 114.176211,
+    "pixelX": 642,
+    "pixelY": 848,
+    "label": "79 Entrance to Eco-Herbal Trail"
+  },
+  {
+    "latitude": 22.245369,
+    "longitude": 114.176137,
+    "pixelX": 709,
+    "pixelY": 815,
+    "label": "79a Entrance to Eco-Herbal Trail 2"
+  },
+  {
+    "latitude": 22.245454,
+    "longitude": 114.176378,
+    "pixelX": 612,
+    "pixelY": 797,
+    "label": "80 Club Panda"
+  },
+  {
+    "latitude": 22.245099,
+    "longitude": 114.176738,
+    "pixelX": 640,
+    "pixelY": 681,
+    "label": "81 Aviary"
+  },
+  {
+    "latitude": 22.245285,
+    "longitude": 114.176085,
+    "pixelX": 768,
+    "pixelY": 793,
+    "label": "82 Eco-Herbal Trail"
+  },
+  {
+    "latitude": 22.244978,
+    "longitude": 114.176174,
+    "pixelX": 834,
+    "pixelY": 724,
+    "label": "83 Forked road of Eco-Herbal Trail"
+  },
+  {
+    "latitude": 22.244774,
+    "longitude": 114.176644,
+    "pixelX": 792,
+    "pixelY": 640,
+    "label": "84 In front of waterfall"
+  },
+  {
+    "latitude": 22.244537,
+    "longitude": 114.176796,
+    "pixelX": 769,
+    "pixelY": 601,
+    "label": "85 End of Eco-Herbal Trail"
+  },
+  {
+    "latitude": 22.244897,
+    "longitude": 114.176496,
+    "pixelX": 807,
+    "pixelY": 661,
+    "label": "86 Pathway up to Waterfall 2"
+  },
+  {
+    "latitude": 22.244953,
+    "longitude": 114.176322,
+    "pixelX": 829,
+    "pixelY": 686,
+    "label": "87 Pathway up to Waterfall"
+  },
+  {
+    "latitude": 22.245135,
+    "longitude": 114.176114,
+    "pixelX": 774,
+    "pixelY": 745,
+    "label": "88 Eco-Herbal Trail 0"
+  },
+  {
+    "latitude": 22.245019,
+    "longitude": 114.176398,
+    "pixelX": 771,
+    "pixelY": 685,
+    "label": "89 Eco-Herbal Trail 1"
+  },
+  {
+    "latitude": 22.245017,
+    "longitude": 114.176311,
+    "pixelX": 796,
+    "pixelY": 709,
+    "label": "89a Eco-Herbal Trail 1a"
+  },
+  {
+    "latitude": 22.244999,
+    "longitude": 114.176558,
+    "pixelX": 705,
+    "pixelY": 688,
+    "label": "90 Eco-Herbal Trail 2"
+  },
+  {
+    "latitude": 22.244978,
+    "longitude": 114.176513,
+    "pixelX": 735,
+    "pixelY": 672,
+    "label": "90a Eco-Herbal Trail 2a"
+  },
+  {
+    "latitude": 22.245209,
+    "longitude": 114.176557,
+    "pixelX": 663,
+    "pixelY": 720,
+    "label": "91 Toilet next to Panda Cafe"
+  },
+  {
+    "latitude": 22.24527,
+    "longitude": 114.176511,
+    "pixelX": 628,
+    "pixelY": 755,
+    "label": "91a Panda Cafe"
+  },
+  {
+    "latitude": 22.245328,
+    "longitude": 114.176485,
+    "pixelX": 588,
+    "pixelY": 736,
+    "label": "92 Panda Kingdom Shop Entrance"
+  },
+  {
+    "latitude": 22.245309,
+    "longitude": 114.176777,
+    "pixelX": 566,
+    "pixelY": 677,
+    "label": "93 Dive Into Local Diversity"
+  },
+  {
+    "latitude": 22.245304,
+    "longitude": 114.176658,
+    "pixelX": 582,
+    "pixelY": 697,
+    "label": "93a Dive Into Local Diversity2"
+  },
+  {
+    "latitude": 22.245058,
+    "longitude": 114.176894,
+    "pixelX": 651,
+    "pixelY": 646,
+    "label": "94 Mark's Mine Exit"
+  },
+  {
+    "latitude": 22.245282,
+    "longitude": 114.177066,
+    "pixelX": 531,
+    "pixelY": 609,
+    "label": "95 pathway to Talking Tree"
+  },
+  {
+    "latitude": 22.245187,
+    "longitude": 114.177018,
+    "pixelX": 577,
+    "pixelY": 602,
+    "label": "95a pathway to Talking Tree2"
+  },
+  {
+    "latitude": 22.245318,
+    "longitude": 114.177065,
+    "pixelX": 474,
+    "pixelY": 619,
+    "label": "95b pathway to Talking Tree3"
+  },
+  {
+    "latitude": 22.245372,
+    "longitude": 114.177127,
+    "pixelX": 434,
+    "pixelY": 611,
+    "label": "96 Talking Tree"
+  },
+  {
+    "latitude": 22.245254,
+    "longitude": 114.177294,
+    "pixelX": 450,
+    "pixelY": 536,
+    "label": "97 Whisker Theatre Toilet"
+  },
+  {
+    "latitude": 22.245319,
+    "longitude": 114.177162,
+    "pixelX": 444,
+    "pixelY": 575,
+    "label": "97a Pathway to Whisker Theatre Toilet"
+  },
+  {
+    "latitude": 22.245113,
+    "longitude": 114.177266,
+    "pixelX": 481,
+    "pixelY": 518,
+    "label": "98 Whiskers Theatre"
+  },
+  {
+    "latitude": 22.245035,
+    "longitude": 114.176981,
+    "pixelX": 626,
+    "pixelY": 584,
+    "label": "99 Whiskers Harbour Entrance"
+  },
+  {
+    "latitude": 22.244858,
+    "longitude": 114.177074,
+    "pixelX": 633,
+    "pixelY": 525,
+    "label": "100 Whiskers Harbour Entrance2"
+  },
+  {
+    "latitude": 22.245074,
+    "longitude": 114.176958,
+    "pixelX": 617,
+    "pixelY": 608,
+    "label": "100a Whiskers Harbour crossway"
+  },
+  {
+    "latitude": 22.244783,
+    "longitude": 114.177144,
+    "pixelX": 590,
+    "pixelY": 467,
+    "label": "100b Whiskers Harbour entrance 2"
+  },
+  {
+    "latitude": 22.244796,
+    "longitude": 114.177237,
+    "pixelX": 564,
+    "pixelY": 494,
+    "label": "101 Toto The Loco Entrance"
+  },
+  {
+    "latitude": 22.244702,
+    "longitude": 114.17721,
+    "pixelX": 579,
+    "pixelY": 430,
+    "label": "102 Merry-Go-Round Entrance"
+  },
+  {
+    "latitude": 22.244744,
+    "longitude": 114.177307,
+    "pixelX": 512,
+    "pixelY": 419,
+    "label": "102a Next to Motor Rocket"
+  },
+  {
+    "latitude": 22.244774,
+    "longitude": 114.177608,
+    "pixelX": 476,
+    "pixelY": 313,
+    "label": "103 Redd's Factory"
+  },
+  {
+    "latitude": 22.244863,
+    "longitude": 114.177542,
+    "pixelX": 457,
+    "pixelY": 363,
+    "label": "103a Whisker's Habour Dining Area"
+  },
+  {
+    "latitude": 22.244776,
+    "longitude": 114.17738,
+    "pixelX": 565,
+    "pixelY": 380,
+    "label": "104 Pathway of Whiskers Harbour"
+  },
+  {
+    "latitude": 22.244677,
+    "longitude": 114.177484,
+    "pixelX": 543,
+    "pixelY": 316,
+    "label": "105 Whiskers Express"
+  },
+  {
+    "latitude": 22.244504,
+    "longitude": 114.177506,
+    "pixelX": 639,
+    "pixelY": 367,
+    "label": "106 Little Meerkat & Giant Tortoise Adventure"
+  },
+  {
+    "latitude": 22.244514,
+    "longitude": 114.17745,
+    "pixelX": 664,
+    "pixelY": 394,
+    "label": "106a Pathway of Whisker's Harbour"
+  },
+  {
+    "latitude": 22.244359,
+    "longitude": 114.177495,
+    "pixelX": 732,
+    "pixelY": 402,
+    "label": "107 Castle of Redd"
+  },
+  {
+    "latitude": 22.244437,
+    "longitude": 114.177386,
+    "pixelX": 705,
+    "pixelY": 414,
+    "label": "108 Village Station"
+  },
+  {
+    "latitude": 22.244287,
+    "longitude": 114.177537,
+    "pixelX": 784,
+    "pixelY": 416,
+    "label": "109 In front of Jungle of Giants"
+  },
+  {
+    "latitude": 22.244242,
+    "longitude": 114.177468,
+    "pixelX": 804,
+    "pixelY": 456,
+    "label": "110 Jungle of Giants"
+  },
+  {
+    "latitude": 22.244261,
+    "longitude": 114.177662,
+    "pixelX": 802,
+    "pixelY": 394,
+    "label": "111 Balloons Up-Up-And-Away"
+  },
+  {
+    "latitude": 22.244155,
+    "longitude": 114.177702,
+    "pixelX": 844,
+    "pixelY": 416,
+    "label": "112 Explore R Entrance"
+  },
+  {
+    "latitude": 22.234531,
+    "longitude": 114.170699,
+    "pixelX": 1358,
+    "pixelY": 1167,
+    "label": "113 Ocean Express Summit Entrance"
+  },
+  {
+    "latitude": 22.234462,
+    "longitude": 114.17072,
+    "pixelX": 1416,
+    "pixelY": 1206,
+    "label": "113a In front of Ocean Express Summit Entrance"
+  },
+  {
+    "latitude": 22.23451,
+    "longitude": 114.170803,
+    "pixelX": 1401,
+    "pixelY": 1126,
+    "label": "114 Ocean Express Summit Exit"
+  },
+  {
+    "latitude": 22.2343,
+    "longitude": 114.170868,
+    "pixelX": 1532,
+    "pixelY": 1132,
+    "label": "115 Summit Plaza"
+  },
+  {
+    "latitude": 22.234413,
+    "longitude": 114.170769,
+    "pixelX": 1471,
+    "pixelY": 1174,
+    "label": "115a Summit Plaza a"
+  },
+  {
+    "latitude": 22.234277,
+    "longitude": 114.170744,
+    "pixelX": 1588,
+    "pixelY": 1173,
+    "label": "115b Summit Plaza b"
+  },
+  {
+    "latitude": 22.234239,
+    "longitude": 114.170879,
+    "pixelX": 1573,
+    "pixelY": 1092,
+    "label": "115c Summit Plaza c"
+  },
+  {
+    "latitude": 22.234568,
+    "longitude": 114.171041,
+    "pixelX": 1408,
+    "pixelY": 1034,
+    "label": "116 Thrill Mountain Escalator"
+  },
+  {
+    "latitude": 22.234503,
+    "longitude": 114.170885,
+    "pixelX": 1476,
+    "pixelY": 1103,
+    "label": "117 Thrill Mountain Escalator2"
+  },
+  {
+    "latitude": 22.234816,
+    "longitude": 114.17107,
+    "pixelX": 1341,
+    "pixelY": 1027,
+    "label": "118 Thrill Mountain Pathway1"
+  },
+  {
+    "latitude": 22.234844,
+    "longitude": 114.171102,
+    "pixelX": 1299,
+    "pixelY": 988,
+    "label": "118a Thrill Mountain Pathway 1a"
+  },
+  {
+    "latitude": 22.235021,
+    "longitude": 114.171165,
+    "pixelX": 1241,
+    "pixelY": 944,
+    "label": "119 Thrill Mountain Pathway2"
+  },
+  {
+    "latitude": 22.235111,
+    "longitude": 114.171206,
+    "pixelX": 1219,
+    "pixelY": 915,
+    "label": "119a Thrill Mountain Pathway 2a"
+  },
+  {
+    "latitude": 22.235220,
+    "longitude": 114.171296,
+    "pixelX": 1192,
+    "pixelY": 881,
+    "label": "120 Thrill Mountain Pathway3"
+  },
+  {
+    "latitude": 22.235311,
+    "longitude": 114.171329,
+    "pixelX": 1175,
+    "pixelY": 831,
+    "label": "120a Thrill Mountain Pathway 3a"
+  },
+  {
+    "latitude": 22.234640,
+    "longitude": 114.170949,
+    "pixelX": 1311,
+    "pixelY": 1064,
+    "label": "121 Thrill Mountain The Flash"
+  },
+  {
+    "latitude": 22.234671,
+    "longitude": 114.170632,
+    "pixelX": 1277,
+    "pixelY": 1125,
+    "label": "121a The Flash sitting area"
+  },
+  {
+    "latitude": 22.23489,
+    "longitude": 114.170818,
+    "pixelX": 1167,
+    "pixelY": 987,
+    "label": "122 Thrill Mountain First-aid Post"
+  },
+  {
+    "latitude": 22.23483,
+    "longitude": 114.17125,
+    "pixelX": 1340,
+    "pixelY": 939,
+    "label": "123 Thrill Mountain Rev Booster"
+  },
+  {
+    "latitude": 22.234742,
+    "longitude": 114.17136,
+    "pixelX": 1382,
+    "pixelY": 961,
+    "label": "124 Thrill Mountain Whirly Bird"
+  },
+  {
+    "latitude": 22.234712,
+    "longitude": 114.171568,
+    "pixelX": 1378,
+    "pixelY": 862,
+    "label": "125 Thrill Mountain Challenge Zone"
+  },
+  {
+    "latitude": 22.234657,
+    "longitude": 114.171417,
+    "pixelX": 1407,
+    "pixelY": 928,
+    "label": "126 Clown Corner"
+  },
+  {
+    "latitude": 22.234622,
+    "longitude": 114.171503,
+    "pixelX": 1462,
+    "pixelY": 890,
+    "label": "126a Clown Corner Dining Area"
+  },
+  {
+    "latitude": 22.234652,
+    "longitude": 114.171692,
+    "pixelX": 1463,
+    "pixelY": 814,
+    "label": "126b Clown Corner Dining Area 2"
+  },
+  {
+    "latitude": 22.234762,
+    "longitude": 114.17174,
+    "pixelX": 1403,
+    "pixelY": 806,
+    "label": "127 near Thrill Mountain toilet"
+  },
+  {
+    "latitude": 22.234835,
+    "longitude": 114.171816,
+    "pixelX": 1354,
+    "pixelY": 802,
+    "label": "127a Thrill Mountain toilet"
+  },
+  {
+    "latitude": 22.234768,
+    "longitude": 114.171995,
+    "pixelX": 1402,
+    "pixelY": 738,
+    "label": "128 Thrill Mountain Bumper Blaster"
+  },
+  {
+    "latitude": 22.234685,
+    "longitude": 114.171897,
+    "pixelX": 1407,
+    "pixelY": 776,
+    "label": "128a Next to Thrill Mountain Bumper Blaster"
+  },
+  {
+    "latitude": 22.234811,
+    "longitude": 114.172185,
+    "pixelX": 1378,
+    "pixelY": 666,
+    "label": "129 Thrill Mountain Hair Raiser"
+  },
+  {
+    "latitude": 22.234861,
+    "longitude": 114.17215,
+    "pixelX": 1384,
+    "pixelY": 699,
+    "label": "129a Outside Thrill Mountain Hair Raiser"
+  },
+  {
+    "latitude": 22.235066,
+    "longitude": 114.172006,
+    "pixelX": 1310,
+    "pixelY": 724,
+    "label": "130 Pathway to Hair Raiser1"
+  },
+  {
+    "latitude": 22.235066,
+    "longitude": 114.172006,
+    "pixelX": 1310,
+    "pixelY": 724,
+    "label": "130a Pathway to Hair Raiser2"
+  },
+  {
+    "latitude": 22.23498,
+    "longitude": 114.172159,
+    "pixelX": 1327,
+    "pixelY": 689,
+    "label": "131 Pathway to Hair Raiser2"
+  },
+  {
+    "latitude": 22.234663,
+    "longitude": 114.172245,
+    "pixelX": 1418,
+    "pixelY": 665,
+    "label": "132 Refill Station"
+  },
+  {
+    "latitude": 22.235055,
+    "longitude": 114.171803,
+    "pixelX": 1283,
+    "pixelY": 761,
+    "label": "133 Polar Adventure North Pole Encounter"
+  },
+  {
+    "latitude": 22.235254,
+    "longitude": 114.171681,
+    "pixelX": 1213,
+    "pixelY": 775,
+    "label": "134 Outside The Lodge"
+  },
+  {
+    "latitude": 22.235366,
+    "longitude": 114.171500,
+    "pixelX": 1165,
+    "pixelY": 800,
+    "label": "135 South Pole Spectacular"
+  },
+  {
+    "latitude": 22.235143,
+    "longitude": 114.171575,
+    "pixelX": 1250,
+    "pixelY": 800,
+    "label": "136 Polar Adventure Arctic Blast"
+  },
+  {
+    "latitude": 22.235248,
+    "longitude": 114.171617,
+    "pixelX": 1210,
+    "pixelY": 800,
+    "label": "136a In front of Polar Adventure Arctic Blast"
+  },
+  {
+    "latitude": 22.235434,
+    "longitude": 114.171232,
+    "pixelX": 1091,
+    "pixelY": 832,
+    "label": "137 Polar Adventure Tuxedos Restaurant"
+  },
+  {
+    "latitude": 22.235618,
+    "longitude": 114.171134,
+    "pixelX": 1044,
+    "pixelY": 844,
+    "label": "138 Toliet near Tuxedos Restaurant"
+  },
+  {
+    "latitude": 22.235481,
+    "longitude": 114.171169,
+    "pixelX": 1072,
+    "pixelY": 842,
+    "label": "138a Next to Toliet near Tuxedos Restaurant"
+  },
+  {
+    "latitude": 22.234315,
+    "longitude": 114.171003,
+    "pixelX": 1549,
+    "pixelY": 1059,
+    "label": "139 Rainforest Entrance"
+  },
+  {
+    "latitude": 22.234090,
+    "longitude": 114.171058,
+    "pixelX": 1617,
+    "pixelY": 1036,
+    "label": "139a Rainforest why zone"
+  },
+  {
+    "latitude": 22.234338,
+    "longitude": 114.171159,
+    "pixelX": 1527,
+    "pixelY": 1039,
+    "label": "140 Rainforst Gift Shop"
+  },
+  {
+    "latitude": 22.234272,
+    "longitude": 114.171208,
+    "pixelX": 1573,
+    "pixelY": 990,
+    "label": "141 Rainforest Food Kiosk"
+  },
+  {
+    "latitude": 22.234313,
+    "longitude": 114.17121,
+    "pixelX": 1545,
+    "pixelY": 989,
+    "label": "141a Next to Rainforest Food Kiosk"
+  },
+  {
+    "latitude": 22.234321,
+    "longitude": 114.171247,
+    "pixelX": 1544,
+    "pixelY": 938,
+    "label": "142 Helmeted Curassow"
+  },
+  {
+    "latitude": 22.234378,
+    "longitude": 114.17134,
+    "pixelX": 1542,
+    "pixelY": 905,
+    "label": "142a Rainforest Pathway 1"
+  },
+  {
+    "latitude": 22.234367,
+    "longitude": 114.171466,
+    "pixelX": 1537,
+    "pixelY": 863,
+    "label": "142b Rainforest Pathway 2"
+  },
+  {
+    "latitude": 22.234314,
+    "longitude": 114.171636,
+    "pixelX": 1546,
+    "pixelY": 832,
+    "label": "143 Expedition Trail"
+  },
+  {
+    "latitude": 22.234125,
+    "longitude": 114.171625,
+    "pixelX": 1601,
+    "pixelY": 770,
+    "label": "143a Expedition Trail a"
+  },
+  {
+    "latitude": 22.233993,
+    "longitude": 114.171820,
+    "pixelX": 1625,
+    "pixelY": 719,
+    "label": "143b Expedition Trail b"
+  },
+  {
+    "latitude": 22.233948,
+    "longitude": 114.171564,
+    "pixelX": 1659,
+    "pixelY": 801,
+    "label": "144 Expedition Trail"
+  },
+  {
+    "latitude": 22.233879,
+    "longitude": 114.171778,
+    "pixelX": 1705,
+    "pixelY": 715,
+    "label": "144a Expedition Trail Bridge"
+  },
+  {
+    "latitude": 22.234160,
+    "longitude": 114.171336,
+    "pixelX": 1642,
+    "pixelY": 896,
+    "label": "144b Expedition Trail Exit Path 1"
+  },
+  {
+    "latitude": 22.234050,
+    "longitude": 114.171305,
+    "pixelX": 1652,
+    "pixelY": 951,
+    "label": "144c Expedition Trail Exit Path 2"
+  },
+  {
+    "latitude": 22.234069,
+    "longitude": 114.171160,
+    "pixelX": 1626,
+    "pixelY": 970,
+    "label": "144d Expedition Trail Exit Path 3"
+  },
+  {
+    "latitude": 22.234216,
+    "longitude": 114.171309,
+    "pixelX": 1582,
+    "pixelY": 919,
+    "label": "144e Expedition Trail Exit Path 4"
+  },
+  {
+    "latitude": 22.234408,
+    "longitude": 114.171847,
+    "pixelX": 1525,
+    "pixelY": 790,
+    "label": "145 The Rapids Entrance"
+  },
+  {
+    "latitude": 22.234418,
+    "longitude": 114.171885,
+    "pixelX": 1503,
+    "pixelY": 746,
+    "label": "145a To The Rapids Toilet"
+  },
+  {
+    "latitude": 22.234453,
+    "longitude": 114.171919,
+    "pixelX": 1505,
+    "pixelY": 709,
+    "label": "146 Toilet outside The Rapids"
+  },
+  {
+    "latitude": 22.23453,
+    "longitude": 114.172084,
+    "pixelX": 1469,
+    "pixelY": 684,
+    "label": "147 Pathway to The Rapids"
+  },
+  {
+    "latitude": 22.234465,
+    "longitude": 114.172254,
+    "pixelX": 1463,
+    "pixelY": 647,
+    "label": "148 Forked road connecting Hair Rasier and Cable Car"
+  },
+  {
+    "latitude": 22.234287,
+    "longitude": 114.172308,
+    "pixelX": 1516,
+    "pixelY": 628,
+    "label": "149 Pathway to Cable Car Exit"
+  },
+  {
+    "latitude": 22.234407,
+    "longitude": 114.17235,
+    "pixelX": 1489,
+    "pixelY": 630,
+    "label": "149a Pathway to Cable Car Exit 2"
+  },
+  {
+    "latitude": 22.23385,
+    "longitude": 114.172267,
+    "pixelX": 1593,
+    "pixelY": 624,
+    "label": "150 Pathway to Cable Car Exit 1"
+  },
+  {
+    "latitude": 22.2336,
+    "longitude": 114.172242,
+    "pixelX": 1672,
+    "pixelY": 592,
+    "label": "151 Cable Car Wheel Chair Entrance"
+  },
+  {
+    "latitude": 22.233639,
+    "longitude": 114.172128,
+    "pixelX": 1710,
+    "pixelY": 613,
+    "label": "151a Pathway to Cable Car Wheel Chair Entrance a"
+  },
+  {
+    "latitude": 22.23365,
+    "longitude": 114.171974,
+    "pixelX": 1733,
+    "pixelY": 626,
+    "label": "152 Pathwway to Cable Car Wheel Chair Entrance"
+  },
+  {
+    "latitude": 22.233568,
+    "longitude": 114.171895,
+    "pixelX": 1765,
+    "pixelY": 633,
+    "label": "152a Pathway to Cable Car Wheel Chair Entrance a"
+  },
+  {
+    "latitude": 22.2442894,
+    "longitude": 114.175821,
+    "pixelX": 858,
+    "pixelY": 703,
+    "label": "154 On the Cable Car 1"
+  },
+  {
+    "latitude": 22.243024,
+    "longitude": 114.17543,
+    "pixelX": 969,
+    "pixelY": 633,
+    "label": "155 On the Cable Car 2"
+  },
+  {
+    "latitude": 22.243286,
+    "longitude": 114.1755,
+    "pixelX": 910,
+    "pixelY": 671,
+    "label": "156 On the Cable Car 3"
+  },
+  {
+    "latitude": 22.237588,
+    "longitude": 114.17374,
+    "pixelX": 1037,
+    "pixelY": 596,
+    "label": "157 On the Cable Car 4"
+  },
+  {
+    "latitude": 22.236041,
+    "longitude": 114.173238,
+    "pixelX": 1137,
+    "pixelY": 553,
+    "label": "158 On the Cable Car 5"
+  },
+  {
+    "latitude": 22.235792,
+    "longitude": 114.173187,
+    "pixelX": 1137,
+    "pixelY": 553,
+    "label": "159 On the Cable Car 6"
+  },
+  {
+    "latitude": 22.234851,
+    "longitude": 114.172896,
+    "pixelX": 1310,
+    "pixelY": 510,
+    "label": "160 On the Cable Car 7"
+  },
+  {
+    "latitude": 22.234271,
+    "longitude": 114.172714,
+    "pixelX": 1458,
+    "pixelY": 499,
+    "label": "161 On the Cable Car 8"
+  },
+  {
+    "latitude": 22.233588,
+    "longitude": 114.172509,
+    "pixelX": 1522,
+    "pixelY": 507,
+    "label": "162 On the Cable Car 9"
+  },
+  {
+    "latitude": 22.23384,
+    "longitude": 114.172548,
+    "pixelX": 1598,
+    "pixelY": 529,
+    "label": "163 On the Cable Car 10"
+  },
+  {
+    "latitude": 22.233495,
+    "longitude": 114.172218,
+    "pixelX": 1618,
+    "pixelY": 495,
+    "label": "164 The Summit Cable Car platform"
+  },
+  {
+    "latitude": 22.23344,
+    "longitude": 114.172439,
+    "pixelX": 1636,
+    "pixelY": 481,
+    "label": "165 The Summit Cable Car Exit"
+  },
+  {
+    "latitude": 22.233445,
+    "longitude": 114.172499,
+    "pixelX": 1613,
+    "pixelY": 463,
+    "label": "166 The Terrace Cafe"
+  },
+  {
+    "latitude": 22.233513,
+    "longitude": 114.172234,
+    "pixelX": 1697,
+    "pixelY": 517,
+    "label": "167 Pathway to Photo Booth"
+  },
+  {
+    "latitude": 22.233509,
+    "longitude": 114.172274,
+    "pixelX": 1697,
+    "pixelY": 517,
+    "label": "167a Pathway to Photo Booth 2"
+  },
+  {
+    "latitude": 22.233525,
+    "longitude": 114.172133,
+    "pixelX": 1718,
+    "pixelY": 552,
+    "label": "168 Pathway to Photo Booth 1"
+  },
+  {
+    "latitude": 22.233488,
+    "longitude": 114.172087,
+    "pixelX": 1754,
+    "pixelY": 580,
+    "label": "169 Cabel Car Exit Photo Booth"
+  },
+  {
+    "latitude": 22.23365,
+    "longitude": 114.171899,
+    "pixelX": 1739,
+    "pixelY": 677,
+    "label": "170 Park's Map & tipboard"
+  },
+  {
+    "latitude": 22.233726,
+    "longitude": 114.171703,
+    "pixelX": 1740,
+    "pixelY": 738,
+    "label": "171 The Rapids' Emergency Exit"
+  },
+  {
+    "latitude": 22.233761,
+    "longitude": 114.171557,
+    "pixelX": 1748,
+    "pixelY": 805,
+    "label": "172 Pathway to Summit Plaza"
+  },
+  {
+    "latitude": 22.233777,
+    "longitude": 114.171403,
+    "pixelX": 1743,
+    "pixelY": 897,
+    "label": "173 The Rapids Tunnel's Emergency Exit"
+  },
+  {
+    "latitude": 22.234189,
+    "longitude": 114.170902,
+    "pixelX": 1621,
+    "pixelY": 1084,
+    "label": "174 Entrance to Marine World"
+  },
+  {
+    "latitude": 22.234099,
+    "longitude": 114.170958,
+    "pixelX": 1661,
+    "pixelY": 1061,
+    "label": "174a Entrance to Marine World a"
+  },
+  {
+    "latitude": 22.234029,
+    "longitude": 114.171005,
+    "pixelX": 1679,
+    "pixelY": 1033,
+    "label": "175 Pathway to Marine World 1"
+  },
+  {
+    "latitude": 22.233763, 
+    "longitude": 114.171479,
+    "pixelX": 1749,
+    "pixelY": 850,
+    "label": "175a Pathway to Marine World 1 a"
+  },
+  {
+    "latitude": 22.23399,
+    "longitude": 114.171142,
+    "pixelX": 1690,
+    "pixelY": 989,
+    "label": "176 Pathway to Marine World 2"
+  },
+  {
+    "latitude": 22.233807,
+    "longitude": 114.171195,
+    "pixelX": 1736,
+    "pixelY": 949,
+    "label": "177 Pathway to Marine World 3"
+  },
+  {
+    "latitude": 22.234086,
+    "longitude": 114.170417,
+    "pixelX": 1744,
+    "pixelY": 1196,
+    "label": "178 Pathway to Back of House Gate"
+  },
+  {
+    "latitude": 22.233841,
+    "longitude": 114.170987,
+    "pixelX": 1767,
+    "pixelY": 977,
+    "label": "179a Near 8-ton bridge"
+  },
+  {
+    "latitude": 22.233781,
+    "longitude": 114.170863,
+    "pixelX": 1784,
+    "pixelY": 1006,
+    "label": "179 8-ton bridge"
+  },
+  {
+    "latitude": 22.233756,
+    "longitude": 114.170760,
+    "pixelX": 1800,
+    "pixelY": 1037,
+    "label": "179b 8-ton bridge b"
+  },
+  {
+    "latitude": 22.233699,
+    "longitude": 114.170635,
+    "pixelX": 1815,
+    "pixelY": 1065,
+    "label": "180 Ocean Park Tower"
+  },
+  {
+    "latitude": 22.233165,
+    "longitude": 114.170108,
+    "pixelX": 1923,
+    "pixelY": 1051,
+    "label": "181 Pacific Pier"
+  },
+  {
+    "latitude": 22.233142,
+    "longitude": 114.169940,
+    "pixelX": 1970,
+    "pixelY": 1054,
+    "label": "181a Pacific Pier a"
+  },
+  {
+    "latitude": 22.233103,
+    "longitude": 114.169778,
+    "pixelX": 1997,
+    "pixelY": 1071,
+    "label": "181b Pacific Pier b"
+  },
+  {
+    "latitude": 22.232969,
+    "longitude": 114.169612,
+    "pixelX": 2025,
+    "pixelY": 1086,
+    "label": "181c Pacific Pier c"
+  },
+  {
+    "latitude": 22.233577,
+    "longitude": 114.170459    ,
+    "pixelX": 1863,
+    "pixelY": 1063,
+    "label": "182 Pathway to Pacific Pier"
+  },
+{
+    "latitude": 22.233383,
+    "longitude": 114.170227    ,
+    "pixelX": 1895,
+    "pixelY": 1064,
+    "label": "182a Pathway to Pacific Pier 2"
+  },
+  {
+    "latitude": 22.233404,
+    "longitude": 114.170331    ,
+    "pixelX": 1883,
+    "pixelY": 1062,
+    "label": "182b Pathway to Pacific Pier 3"
+  },
+  {
+    "latitude": 22.233271,
+    "longitude": 114.169802,
+    "pixelX": 1946,
+    "pixelY": 1110,
+    "label": "183 Pier Lane"
+  },
+  {
+    "latitude": 22.233332,
+    "longitude": 114.169992,
+    "pixelX": 1919,
+    "pixelY": 1093,
+    "label": "183a Pier Lane a"
+  },
+  {
+    "latitude": 22.233207,
+    "longitude": 114.169442,
+    "pixelX": 1992,
+    "pixelY": 1137,
+    "label": "184 Escalator to Water World"
+  },
+  {
+    "latitude": 22.233181,
+    "longitude": 114.169176,
+    "pixelX": 2043,
+    "pixelY": 1168,
+    "label": "184 Escalator to Water World lower stairs"
+  },
+  {
+    "latitude": 22.233842,
+    "longitude": 114.170692,
+    "pixelX": 1775,
+    "pixelY": 1081,
+    "label": "185 Pathway to Marine World 4"
+  },
+  {  
+    "latitude": 22.233913,
+    "longitude": 114.170632,
+    "pixelX": 1763,
+    "pixelY": 1111,
+    "label": "186 Pathway to Marine World 5"
+  },
+  {
+    "latitude": 22.2339,
+    "longitude": 114.170485,
+    "pixelX": 1778,
+    "pixelY": 1141,
+    "label": "187 Forked road near Ocean Park Tower"
+  },
+  {
+    "latitude": 22.233446,
+    "longitude": 114.170138,
+    "pixelX": 1872,
+    "pixelY": 1123,
+    "label": "188 Dolphin Exploration Entrance"
+  },
+  {
+    "latitude": 22.233782,
+    "longitude": 114.170284,
+    "pixelX": 1816,
+    "pixelY": 1144,
+    "label": "188a Pathway to Dolphin Exploration Entrance"
+  },
+  {
+    "latitude": 22.233639,
+    "longitude": 114.170190,
+    "pixelX": 1845,
+    "pixelY": 1129,
+    "label": "188b Pathway to Dolphin Exploration Entrance b"
+  },
+  {
+    "latitude": 22.233545,
+    "longitude": 114.171242,
+    "pixelX": 1891,
+    "pixelY": 882,
+    "label": "189 Pathway to Dolphin Exploration 1"
+  },
+  {
+    "latitude": 22.233594,
+    "longitude": 114.171046,
+    "pixelX": 1887,
+    "pixelY": 917,
+    "label": "190 Pathway to Dolphin Exploration 2"
+  },
+  {
+    "latitude": 22.233498,
+    "longitude": 114.170709,
+    "pixelX": 1893,
+    "pixelY": 956,
+    "label": "191 Pathway to Dolphin Exploration 3"
+  },
+  {
+    "latitude": 22.233417,
+    "longitude": 114.170719,
+    "pixelX": 1900,
+    "pixelY": 978,
+    "label": "192 Pathway to Dolphin Exploration 4"
+  },
+  {
+    "latitude": 22.233327,
+    "longitude": 114.170384,
+    "pixelX": 1897,
+    "pixelY": 1007,
+    "label": "193 Pathway to Dolphin Exploration 5"
+  },
+  {
+    "latitude": 22.233502,
+    "longitude": 114.170045,
+    "pixelX": 1918,
+    "pixelY": 1136,
+    "label": "194 Dolphin Exploration outside Toilet"
+  },
+  {
+    "latitude": 22.23391,
+    "longitude": 114.170381,
+    "pixelX": 1776,
+    "pixelY": 1177,
+    "label": "195 Park's Map & tipboard"
+  },
+  {
+    "latitude": 22.234153,
+    "longitude": 114.170609,
+    "pixelX": 1707,
+    "pixelY": 1184,
+    "label": "196 Back of House Gate"
+  },
+  {
+    "latitude": 22.234057,
+    "longitude": 114.170654,
+    "pixelX": 1699,
+    "pixelY": 1134,
+    "label": "197 Pathway to Marine World"
+  },
+  {
+    "latitude": 22.233916,
+    "longitude": 114.170721,
+    "pixelX": 1725,
+    "pixelY": 1095,
+    "label": "198 Pathway to Marine World 1"
+  },
+  {
+    "latitude": 22.233712,
+    "longitude": 114.171103,
+    "pixelX": 1809,
+    "pixelY": 982,
+    "label": "199 Pathway to Marine World 2"
+  },
+  {
+    "latitude": 22.233668,
+    "longitude": 114.171203,
+    "pixelX": 1837,
+    "pixelY": 937,
+    "label": "200 Pathway to The Summit Cable Car Station"
+  },
+  {
+    "latitude": 22.23359,
+    "longitude": 114.171275,
+    "pixelX": 1838,
+    "pixelY": 907,
+    "label": "201 Pathway to The Summit Cable Car Station 2"
+  },
+  {
+    "latitude": 22.233551,
+    "longitude": 114.17135,
+    "pixelX": 1849,
+    "pixelY": 880,
+    "label": "202 The Summit Cable Car Entrance"
+  },
+  {
+    "latitude": 22.233657,
+    "longitude": 114.171465,
+    "pixelX": 1811,
+    "pixelY": 857,
+    "label": "203 Pathway to The Summit Cable Car platform"
+  },
+  {
+    "latitude": 22.233636,
+    "longitude": 114.171583,
+    "pixelX": 1813,
+    "pixelY": 809,
+    "label": "204 Pathway to The Summit Cable Car platform 1"
+  },
+  {
+    "latitude": 22.233591,
+    "longitude": 114.171649,
+    "pixelX": 1816,
+    "pixelY": 764,
+    "label": "205 Pathway to The Summit Cable Car platform 2"
+  },
+  {
+    "latitude": 22.233524,
+    "longitude": 114.171725,
+    "pixelX": 1818,
+    "pixelY": 716,
+    "label": "206 Pathway to The Summit Cable Car platform 3"
+  },
+  {
+    "latitude": 22.233451,
+    "longitude": 114.17192,
+    "pixelX": 1817,
+    "pixelY": 666,
+    "label": "207 Pathway to The Summit Cable Car platform 4"
+  },
+  {
+    "latitude": 22.233504,
+    "longitude": 114.171849,
+    "pixelX": 1815,
+    "pixelY": 601,
+    "label": "208 Pathway to The Summit Cable Car platform 5"
+  },
+  {
+    "latitude": 22.233359,
+    "longitude": 114.172,
+    "pixelX": 1796,
+    "pixelY": 562,
+    "label": "209 Pathway to The Summit Cable Car platform 6"
+  },
+  {
+    "latitude": 22.23333,
+    "longitude": 114.172221,
+    "pixelX": 1775,
+    "pixelY": 535,
+    "label": "210 Pathway to Sea Jelly Spectacular"
+  },
+  {
+    "latitude": 22.233421,
+    "longitude": 114.172221,
+    "pixelX": 1747,
+    "pixelY": 542,
+    "label": "211 Pathway to The Summit Cable Car platform 7"
+  },
+  {
+    "latitude": 22.233384,
+    "longitude": 114.17231,
+    "pixelX": 1724,
+    "pixelY": 511,
+    "label": "212 Pathway to The Summit Cable Car platform 8"
+  },
+  {
+    "latitude": 22.233392,
+    "longitude": 114.172493,
+    "pixelX": 1709,
+    "pixelY": 479,
+    "label": "213 The Bayview Restaurant"
+  },
+  {
+    "latitude": 22.233315,
+    "longitude": 114.172407,
+    "pixelX": 1768,
+    "pixelY": 515,
+    "label": "214 Sea Jelly Spectacular"
+  },
+  {
+    "latitude": 22.233509,
+    "longitude": 114.171465,
+    "pixelX": 1864,
+    "pixelY": 823,
+    "label": "215 Forked road near The Summit Cable Car Toilet"
+  },
+  {
+    "latitude": 22.233445,
+    "longitude": 114.171603,
+    "pixelX": 1839,
+    "pixelY": 748,
+    "label": "216 The Summit Cable Car Toilet"
+  },
+  {
+    "latitude": 22.233413,
+    "longitude": 114.171559,
+    "pixelX": 1871,
+    "pixelY": 786,
+    "label": "217 Ocean Paradise"
+  },
+  {
+    "latitude": 22.23324,
+    "longitude": 114.17165,
+    "pixelX": 1893,
+    "pixelY": 762,
+    "label": "217 Ocean Paradise"
+  },
+  {
+    "latitude": 22.233329,
+    "longitude": 114.171654,
+    "pixelX": 1883,
+    "pixelY": 756,
+    "label": "218 Ocean Paradise Stage"
+  },
+  {
+    "latitude": 22.233120,
+    "longitude": 114.171955,
+    "pixelX": 1894,
+    "pixelY": 712,
+    "label": "219 Pathway to Marine World 3"
+  },
+  {
+    "latitude": 22.232999,
+    "longitude": 114.172051,
+    "pixelX": 1912,
+    "pixelY": 683,
+    "label": "220 Pathway near Shark Mystique Entrance"
+  },
+  {
+    "latitude": 22.232932,
+    "longitude": 114.172094,
+    "pixelX": 1930,
+    "pixelY": 663,
+    "label": "220b Pathway near Shark Mystique Entrance b"
+  },
+  {
+    "latitude": 22.232785,
+    "longitude": 114.172153,
+    "pixelX": 1939,
+    "pixelY": 637,
+    "label": "221 Shark Mystique Entrance"
+  },
+  {
+    "latitude": 22.232712,
+    "longitude": 114.172305,
+    "pixelX": 1921,
+    "pixelY": 612,
+    "label": "221a Shark Mystique Entrance a"
+  },
+  {
+    "latitude": 22.232540,
+    "longitude": 114.172386,
+    "pixelX": 1927,
+    "pixelY": 550,
+    "label": "223 to Shark Mystique Entrance 2"
+  },
+  {
+    "latitude": 22.232652,
+    "longitude": 114.172277,
+    "pixelX": 1942,
+    "pixelY": 587,
+    "label": "223a to Shark Mystique Entrance 2 a"
+  },
+  {
+    "latitude": 22.232413,
+    "longitude": 114.172440,
+    "pixelX": 1910,
+    "pixelY": 471,
+    "label": "224 to Shark Mystique Entrance 3"
+  },
+  {
+    "latitude": 22.232510,
+    "longitude": 114.172419,
+    "pixelX": 1915,
+    "pixelY": 510,
+    "label": "224a to Shark Mystique Entrance a"
+  },
+  {
+    "latitude": 22.232335,
+    "longitude": 114.172477,
+    "pixelX": 1961,
+    "pixelY": 434,
+    "label": "225 Shark Mystique"
+  },
+  {
+    "latitude": 22.232294,
+    "longitude": 114.172515,
+    "pixelX": 1955,
+    "pixelY": 412,
+    "label": "225a Shark Mystique a"
+  },
+  {
+    "latitude": 22.232382,
+    "longitude": 114.172458,
+    "pixelX": 1931,
+    "pixelY": 441,
+    "label": "225b Shark Mystique b"
+  },
+  {
+    "latitude": 22.232515,
+    "longitude": 114.172267,
+    "pixelX": 1979,
+    "pixelY": 600,
+    "label": "226 Pathway to Marine World 6"
+  },
+  {
+    "latitude": 22.232632,
+    "longitude": 114.172225,
+    "pixelX": 1958,
+    "pixelY": 622,
+    "label": "227 Pathway to Marine World 7"
+  },
+  {
+    "latitude": 22.232365,
+    "longitude": 114.172350,
+    "pixelX": 1994,
+    "pixelY": 552,
+    "label": "228 Pathway to Marine World 8"
+  },
+  {
+    "latitude": 22.232254,
+    "longitude": 114.172378,
+    "pixelX": 1980,
+    "pixelY": 521,
+    "label": "228a Pathway to Marine World 8a"
+  },
+  {
+    "latitude": 22.232103,
+    "longitude": 114.172419,
+    "pixelX": 1978,
+    "pixelY": 475,
+    "label": "229 McDonald's"
+  },
+  {
+    "latitude": 22.232062,
+    "longitude": 114.172524,
+    "pixelX": 2012,
+    "pixelY": 445,
+    "label": "230 Access road near Flying Swing"
+  },
+  {
+    "latitude": 22.232007,
+    "longitude": 114.172432,
+    "pixelX": 2044,
+    "pixelY": 462,
+    "label": "230a Access road near Flying Swing a"
+  },
+  {
+    "latitude": 22.231994,
+    "longitude": 114.172697,
+    "pixelX": 2038,
+    "pixelY": 419,
+    "label": "231 Access road near Flying Swing 1"
+  },
+  {
+    "latitude": 22.231861,
+    "longitude": 114.172746,
+    "pixelX": 2109,
+    "pixelY": 406,
+    "label": "232 Access road near Flying Swing 2"
+  },
+  {
+    "latitude": 22.231669,
+    "longitude": 114.172623,
+    "pixelX": 2148,
+    "pixelY": 420,
+    "label": "233 Access road near Flying Swing 3"
+  },
+  {
+    "latitude": 22.231599,
+    "longitude": 114.172522,
+    "pixelX": 2185,
+    "pixelY": 440,
+    "label": "234 Access road near Flying Swing 4"
+  },
+  {
+    "latitude": 22.231945,
+    "longitude": 114.17238,
+    "pixelX": 2075,
+    "pixelY": 471,
+    "label": "235 Marine World Flying Swing"
+  },
+  {
+    "latitude": 22.232105,
+    "longitude": 114.172322,
+    "pixelX": 2029,
+    "pixelY": 537,
+    "label": "236 Marine World game booths"
+  },
+  {
+    "latitude": 22.231948,
+    "longitude": 114.172248,
+    "pixelX": 2070,
+    "pixelY": 531,
+    "label": "237 Marine World Ferris Wheel"
+  },
+  {
+    "latitude": 22.232164,
+    "longitude": 114.172212,
+    "pixelX": 2021,
+    "pixelY": 609,
+    "label": "238 Ice-cream Delight"
+  },
+  {
+    "latitude": 22.232294,
+    "longitude": 114.172185,
+    "pixelX": 1997,
+    "pixelY": 638,
+    "label": "239 Dinning Area 1"
+  },
+  {
+    "latitude": 22.232388,
+    "longitude": 114.17217,
+    "pixelX": 1977,
+    "pixelY": 664,
+    "label": "240 Dinning Area 2"
+  },
+  {
+    "latitude": 22.232582,
+    "longitude": 114.172087,
+    "pixelX": 1964,
+    "pixelY": 703,
+    "label": "241 Dinning Area 3"
+  },
+  {
+    "latitude": 22.233466,
+    "longitude": 114.171353,
+    "pixelX": 1894,
+    "pixelY": 838,
+    "label": "242 Pathway to Dolphin Exploration"
+  },
+  {
+    "latitude": 22.2327,
+    "longitude": 114.171983,
+    "pixelX": 1945,
+    "pixelY": 730,
+    "label": "243 Pathway to Dolphin Exploration 1"
+  },
+  {
+    "latitude": 22.232831,
+    "longitude": 114.171894,
+    "pixelX": 1938,
+    "pixelY": 759,
+    "label": "244 Pathway to Dolphin Exploration 2"
+  },
+  {
+    "latitude": 22.232983,
+    "longitude": 114.171819,
+    "pixelX": 1930,
+    "pixelY": 799,
+    "label": "245 Pathway to Dolphin Exploration 3"
+  },
+  {
+    "latitude": 22.233054,
+    "longitude": 114.171563,
+    "pixelX": 1933,
+    "pixelY": 852,
+    "label": "246 Dolphin Exploration Entrance"
+  },
+  {
+    "latitude": 22.233166,
+    "longitude": 114.171396,
+    "pixelX": 1933,
+    "pixelY": 871,
+    "label": "247 Dolphin Exploration 2"
+  },
+  {
+    "latitude": 22.233238,
+    "longitude": 114.171275,
+    "pixelX": 1933,
+    "pixelY": 891,
+    "label": "248 Dolphin Exploration 3"
+  },
+  {
+    "latitude": 22.233263,
+    "longitude": 114.17103,
+    "pixelX": 1927,
+    "pixelY": 916,
+    "label": "249 Dolphin Exploration 4"
+  },
+  {
+    "latitude": 22.233324,
+    "longitude": 114.170851,
+    "pixelX": 1936,
+    "pixelY": 947,
+    "label": "250 Dolphin Exploration 5"
+  },
+  {
+    "latitude": 22.233278,
+    "longitude": 114.170616,
+    "pixelX": 1947,
+    "pixelY": 981,
+    "label": "251 Dolphin Exploration 6"
+  },
+  {
+    "latitude": 22.232501,
+    "longitude": 114.171686,
+    "pixelX": 1997,
+    "pixelY": 778,
+    "label": "252 Staircases near Dolphin Exploration 3"
+  },
+  {
+    "latitude": 22.232482,
+    "longitude": 114.171585,
+    "pixelX": 2036,
+    "pixelY": 789,
+    "label": "252a Staircases near Dolphin Exploration 4"
+  },
+  {
+    "latitude": 22.232655,
+    "longitude": 114.171667,
+    "pixelX": 1978,
+    "pixelY": 799,
+    "label": "253 Staircases near Dolphin Exploration 2"
+  },
+  {
+    "latitude": 22.232799,
+    "longitude": 114.171582,
+    "pixelX": 1963,
+    "pixelY": 829,
+    "label": "254 Staircases near Dolphin Exploration 1"
+  },
+  {
+    "latitude": 22.232417,
+    "longitude": 114.171574,
+    "pixelX": 2070,
+    "pixelY": 787,
+    "label": "255 Wild Twister"
+  },
+  {
+    "latitude": 22.232549,
+    "longitude": 114.171491,
+    "pixelX": 2052,
+    "pixelY": 844,
+    "label": "256 Pathway to MMBRC"
+  },
+  {
+    "latitude": 22.232695,
+    "longitude": 114.171219,
+    "pixelX": 2049,
+    "pixelY": 892,
+    "label": "257 Pathway to MMBRC 1"
+  },
+  {
+    "latitude": 22.232777,
+    "longitude": 114.170910,
+    "pixelX": 2055,
+    "pixelY": 941,
+    "label": "258 Pathway to MMBRC 2"
+  },
+  {
+    "latitude": 22.232699,
+    "longitude": 114.170680,
+    "pixelX": 2060,
+    "pixelY": 978,
+    "label": "259 Pathway to MMBRC 3"
+  },
+  {
+    "latitude": 22.232499,
+    "longitude": 114.170404,
+    "pixelX": 2070,
+    "pixelY": 992,
+    "label": "260 Pathway to MMBRC 4"
+  },
+  {
+    "latitude": 22.232204,
+    "longitude": 114.169641,
+    "pixelX": 2093,
+    "pixelY": 1041,
+    "label": "261 End road of MMBRC 1"
+  },
+  {
+    "latitude": 22.232264,
+    "longitude": 114.169296,
+    "pixelX": 2105,
+    "pixelY": 1066,
+    "label": "262 End road of MMBRC 2"
+  },
+  {
+    "latitude": 22.232202,
+    "longitude": 114.169875,
+    "pixelX": 2078,
+    "pixelY": 1019,
+    "label": "263 MMBRC"
+  },
+  {
+    "latitude": 22.232284,
+    "longitude": 114.171697,
+    "pixelX": 2085,
+    "pixelY": 759,
+    "label": "264 Abyss"
+  },
+  {
+    "latitude": 22.232029,
+    "longitude": 114.171761,
+    "pixelX": 2131,
+    "pixelY": 713,
+    "label": "265 Cafe Ocean"
+  },
+  {
+    "latitude": 22.232173,
+    "longitude": 114.171747,
+    "pixelX": 2105,
+    "pixelY": 732,
+    "label": "265a Near Cafe Ocean"
+  },
+  {
+    "latitude": 22.231826,
+    "longitude": 114.171842,
+    "pixelX": 2161,
+    "pixelY": 681,
+    "label": "266 Crazy Galleon"
+  },
+  {
+    "latitude": 22.231783,
+    "longitude": 114.171864,
+    "pixelX": 2176,
+    "pixelY": 654,
+    "label": "266a Crazy Galleon a"
+  },
+  {
+    "latitude": 22.231555,
+    "longitude": 114.171947,
+    "pixelX": 2190,
+    "pixelY": 641,
+    "label": "266b Crazy Galleon b"
+  },
+  {
+    "latitude": 22.231406,
+    "longitude": 114.172083,
+    "pixelX": 2249,
+    "pixelY": 569,
+    "label": "267 Marine World Seaside Road 1"
+  },
+  {
+    "latitude": 22.231167,
+    "longitude": 114.17224,
+    "pixelX": 2289,
+    "pixelY": 461,
+    "label": "268 Marine World Seaside Road 2"
+  },
+  {
+    "latitude": 22.231116,
+    "longitude": 114.17218,
+    "pixelX": 2337,
+    "pixelY": 450,
+    "label": "269 Marine World Seaside Road 3"
+  },
+  {
+    "latitude": 22.231101,
+    "longitude": 114.172353,
+    "pixelX": 2292,
+    "pixelY": 421,
+    "label": "270 Marine World Seaside Road 4"
+  },
+  {
+    "latitude": 22.231231,
+    "longitude": 114.172406,
+    "pixelX": 2255,
+    "pixelY": 438,
+    "label": "271 Marine World Seaside Road 5"
+  },
+  {
+    "latitude": 22.231055,
+    "longitude": 114.172294,
+    "pixelX": 2344,
+    "pixelY": 420,
+    "label": "272 Marine World Seaside Road 6"
+  },
+  {
+    "latitude": 22.23154,
+    "longitude": 114.172388,
+    "pixelX": 2206,
+    "pixelY": 468,
+    "label": "273 Marine World Guest Smoking Area"
+  },
+  {
+    "latitude": 22.231748,
+    "longitude": 114.172246,
+    "pixelX": 2163,
+    "pixelY": 505,
+    "label": "274 Dinning Area under Ferris Wheel"
+  },
+  {
+    "latitude": 22.231993,
+    "longitude": 114.172101,
+    "pixelX": 2071,
+    "pixelY": 592,
+    "label": "275 platform under Ferris Wheel"
+  },
+  {
+    "latitude": 22.231997,
+    "longitude": 114.171845,
+    "pixelX": 2099,
+    "pixelY": 689,
+    "label": "275a Staircase under Ferris Wheel"
+  },
+  {
+    "latitude": 22.231981,
+    "longitude": 114.171956,
+    "pixelX": 2086,
+    "pixelY": 658,
+    "label": "275b Staircase under Ferris Wheel 2"
+  },
+  {
+    "latitude": 22.232073,
+    "longitude": 114.171998,
+    "pixelX": 2047,
+    "pixelY": 649,
+    "label": "276 Marine World First-aid Post"
+  }
+]

@@ -1,0 +1,996 @@
+[
+  {
+    "id": "hair-raiser",
+    "name": "Hair Raiser",
+    "side": "summit",
+    "zone": "Thrill Mountain",
+    "category": "ride",
+    "lat": 22.234811,
+    "lng": 114.172185,
+    "blurb": "A floorless coaster at 88 km/h with five inversions over the South China Sea.",
+    "position": [
+      0.64,
+      -6.88
+    ],
+    "code": "F5",
+    "sourceKey": "hair_raiser"
+  },
+  {
+    "id": "arctic-blast",
+    "name": "Arctic Blast",
+    "side": "summit",
+    "zone": "Polar Adventure",
+    "category": "ride",
+    "lat": 22.235171,
+    "lng": 114.171589,
+    "blurb": "A family roller coaster racing through polar ice caves.",
+    "position": [
+      -1.616,
+      -4.688
+    ],
+    "code": "D1",
+    "sourceKey": "arctic_blast"
+  },
+  {
+    "id": "bumper-blaster",
+    "name": "Bumper Blaster",
+    "side": "summit",
+    "zone": "Thrill Mountain",
+    "category": "ride",
+    "lat": 22.234632,
+    "lng": 114.172058,
+    "blurb": "Classic bumper cars under the Thrill Mountain canopy.",
+    "position": [
+      1.6,
+      -6.048
+    ],
+    "code": "F4",
+    "sourceKey": "bumper_blaster"
+  },
+  {
+    "id": "castle-of-redd",
+    "name": "Castle of Redd",
+    "side": "waterfront",
+    "zone": "Whiskers Harbour",
+    "category": "ride",
+    "lat": 22.244358,
+    "lng": 114.177501,
+    "blurb": "Soft-play castle with slides, tunnels and climbing nets for kids.",
+    "position": [
+      -9.584,
+      -11.472
+    ],
+    "code": "A6",
+    "sourceKey": "castleofredd"
+  },
+  {
+    "id": "crazy-galleon",
+    "name": "Crazy Galleon",
+    "side": "summit",
+    "zone": "Marine World",
+    "category": "ride",
+    "lat": 22.231739,
+    "lng": 114.171897,
+    "blurb": "A pirate ship that swings you high above the cliffs.",
+    "position": [
+      14.4,
+      -6.8
+    ],
+    "code": "H9",
+    "sourceKey": "crazy_galleon"
+  },
+  {
+    "id": "eco-herbal-trail",
+    "name": "Eco-Herbal Trail",
+    "side": "waterfront",
+    "zone": "Amazing Asian Animals",
+    "category": "exhibit",
+    "lat": 22.244959,
+    "lng": 114.176174,
+    "blurb": "A shaded walking trail up to a waterfall, lined with Chinese herbal plants.",
+    "position": [
+      -8.096,
+      -6.016
+    ],
+    "code": "B6",
+    "sourceKey": "ecoherbaltrail"
+  },
+  {
+    "id": "ferris-wheel",
+    "name": "Ferris Wheel",
+    "side": "summit",
+    "zone": "Marine World",
+    "category": "ride",
+    "lat": 22.231965,
+    "lng": 114.172258,
+    "blurb": "The Summit's Ferris wheel, with gondolas high above the sea.",
+    "position": [
+      11.92,
+      -9.040000000000001
+    ],
+    "code": "H8",
+    "sourceKey": "ferris_wheel"
+  },
+  {
+    "id": "flying-swing",
+    "name": "Flying Swing",
+    "side": "summit",
+    "zone": "Marine World",
+    "category": "ride",
+    "lat": 22.231967,
+    "lng": 114.172467,
+    "blurb": "Swing chairs that fly out over the Marine World headland.",
+    "position": [
+      11.664,
+      -10.336
+    ],
+    "code": "H7",
+    "sourceKey": "flying_swing"
+  },
+  {
+    "id": "jungle-of-giants",
+    "name": "HiPP presents Jungle of Giants",
+    "side": "waterfront",
+    "zone": "Whiskers Harbour",
+    "category": "ride",
+    "lat": 22.244254,
+    "lng": 114.177499,
+    "blurb": "A giant jungle playground with oversized plants and climbing frames.",
+    "position": [
+      -8.608,
+      -10.448
+    ],
+    "code": "A8",
+    "sourceKey": "jungleofgiants"
+  },
+  {
+    "id": "toto-the-loco",
+    "name": "Toto The Loco",
+    "side": "waterfront",
+    "zone": "Whiskers Harbour",
+    "category": "ride",
+    "lat": 22.244796,
+    "lng": 114.177237,
+    "blurb": "A gentle kiddie train that loops through Whiskers Harbour.",
+    "position": [
+      -12.4,
+      -9.616
+    ],
+    "code": "A2",
+    "sourceKey": "toto_the_loco"
+  },
+  {
+    "id": "merry-go-round",
+    "name": "Merry-Go-Round",
+    "side": "waterfront",
+    "zone": "Whiskers Harbour",
+    "category": "ride",
+    "lat": 22.244702,
+    "lng": 114.17721,
+    "blurb": "Classic carousel with painted horses in the middle of Whiskers Harbour.",
+    "position": [
+      -12.16,
+      -10.64
+    ],
+    "code": "A4",
+    "sourceKey": "mgr"
+  },
+  {
+    "id": "balloons",
+    "name": "Balloons Up-Up-And-Away",
+    "side": "waterfront",
+    "zone": "Whiskers Harbour",
+    "category": "ride",
+    "lat": 22.244261,
+    "lng": 114.177662,
+    "blurb": "Ride hot-air-balloon gondolas round and round above the harbour.",
+    "position": [
+      -8.592,
+      -11.216000000000001
+    ],
+    "code": "A7",
+    "sourceKey": "balloon"
+  },
+  {
+    "id": "old-hong-kong",
+    "name": "Old Hong Kong",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "exhibit",
+    "lat": 22.246463,
+    "lng": 114.176044,
+    "blurb": "Step back to 1950s–70s Hong Kong: shophouses, snacks and street games.",
+    "position": [
+      -14.576,
+      -0.8320000000000001
+    ],
+    "code": "C10",
+    "sourceKey": "old_hong_kong"
+  },
+  {
+    "id": "sea-life-carousel",
+    "name": "Sea Life Carousel",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "ride",
+    "lat": 22.246272,
+    "lng": 114.176136,
+    "blurb": "A carousel of ocean animals, with seals, dolphins and sea turtles to ride.",
+    "position": [
+      -13.024000000000001,
+      -1.36
+    ],
+    "code": "C11",
+    "sourceKey": "slc"
+  },
+  {
+    "id": "the-rapids",
+    "name": "The Rapids",
+    "side": "summit",
+    "zone": "Rainforest",
+    "category": "ride",
+    "lat": 22.234408,
+    "lng": 114.171847,
+    "blurb": "Whitewater river rafting through the rainforest — you will get wet!",
+    "position": [
+      2.976,
+      -4.88
+    ],
+    "code": "E5",
+    "sourceKey": "rapids"
+  },
+  {
+    "id": "the-flash",
+    "name": "The Flash",
+    "side": "summit",
+    "zone": "Thrill Mountain",
+    "category": "ride",
+    "lat": 22.23464,
+    "lng": 114.170949,
+    "blurb": "A spinning pendulum ride that flips you upside down at speed.",
+    "position": [
+      -0.448,
+      -0.496
+    ],
+    "code": "F1",
+    "sourceKey": "flash"
+  },
+  {
+    "id": "whirly-bird",
+    "name": "Whirly Bird",
+    "side": "summit",
+    "zone": "Thrill Mountain",
+    "category": "ride",
+    "lat": 22.234598,
+    "lng": 114.171295,
+    "blurb": "Swing chairs that fly high around a spinning tower.",
+    "position": [
+      1.6480000000000001,
+      -1.936
+    ],
+    "code": "F2",
+    "sourceKey": "whirly_bird"
+  },
+  {
+    "id": "rev-booster",
+    "name": "Rev Booster",
+    "side": "summit",
+    "zone": "Thrill Mountain",
+    "category": "ride",
+    "lat": 22.234814,
+    "lng": 114.171192,
+    "blurb": "A giant spinning arm that rotates riders 360°.",
+    "position": [
+      -0.272,
+      -2.128
+    ],
+    "code": "F3",
+    "sourceKey": "rev_booster"
+  },
+  {
+    "id": "ocean-park-tower",
+    "name": "Ocean Park Tower",
+    "side": "summit",
+    "zone": "Marine World",
+    "category": "exhibit",
+    "lat": 22.233699,
+    "lng": 114.170635,
+    "blurb": "A revolving cabin climbs 72 metres for 360° views of the South China Sea.",
+    "position": [
+      7.6160000000000005,
+      -0.48
+    ],
+    "code": "H5",
+    "sourceKey": "ocean_park_tower"
+  },
+  {
+    "id": "wild-twister",
+    "name": "Wild Twister",
+    "side": "summit",
+    "zone": "Marine World",
+    "category": "ride",
+    "lat": 22.232417,
+    "lng": 114.171574,
+    "blurb": "Spin, twist and tilt on the Marine World thrill ride.",
+    "position": [
+      11.696,
+      -4.928
+    ],
+    "code": "H10",
+    "sourceKey": "wildtwister"
+  },
+  {
+    "id": "whiskers-herbal-valley",
+    "name": "Whiskers Herbal Valley",
+    "side": "waterfront",
+    "zone": "Whiskers Harbour",
+    "category": "exhibit",
+    "lat": 22.245334,
+    "lng": 114.177018,
+    "blurb": "A garden of herbs and plants to see, touch and smell.",
+    "position": [
+      -13.488,
+      -7.5840000000000005
+    ],
+    "code": "A11",
+    "sourceKey": "whiskersherb"
+  },
+  {
+    "id": "giant-panda-adventure",
+    "name": "Giant Panda Adventure",
+    "side": "waterfront",
+    "zone": "Amazing Asian Animals",
+    "category": "animal",
+    "lat": 22.245788,
+    "lng": 114.176473,
+    "blurb": "Meet the giant pandas, red pandas and Chinese giant salamanders in a Sichuan-style home.",
+    "position": [
+      -13.312000000000001,
+      -6.128
+    ],
+    "code": "B3",
+    "sourceKey": "gpa"
+  },
+  {
+    "id": "sichuan-treasures",
+    "name": "Hong Kong Jockey Club Sichuan Treasures",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "animal",
+    "lat": 22.245689,
+    "lng": 114.175348,
+    "blurb": "Golden snub-nosed monkeys and Sichuan wildlife in a mountain-forest setting.",
+    "position": [
+      -7.424,
+      -0.6880000000000001
+    ],
+    "code": "C6",
+    "sourceKey": "hkjcst"
+  },
+  {
+    "id": "dolphin-explorations",
+    "name": "Dolphin Explorations",
+    "side": "summit",
+    "zone": "Marine World",
+    "category": "animal",
+    "lat": 22.233374,
+    "lng": 114.170997,
+    "blurb": "Watch Indo-Pacific bottlenose dolphins at play in outdoor pools.",
+    "position": [
+      9.168000000000001,
+      -2.672
+    ],
+    "code": "H4",
+    "sourceKey": "de"
+  },
+  {
+    "id": "marine-mammal-centre",
+    "name": "Marine Mammal Breeding and Research Centre",
+    "side": "summit",
+    "zone": "Marine World",
+    "category": "animal",
+    "lat": 22.232303,
+    "lng": 114.169958,
+    "blurb": "Behind-the-scenes centre for marine mammal breeding and research.",
+    "position": [
+      12.016,
+      -1.328
+    ],
+    "code": "H12",
+    "sourceKey": "mmbrc"
+  },
+  {
+    "id": "pacific-pier",
+    "name": "Pacific Pier",
+    "side": "summit",
+    "zone": "Marine World",
+    "category": "animal",
+    "lat": 22.233167,
+    "lng": 114.169753,
+    "blurb": "Seals and sea lions on a California-style rocky pier.",
+    "position": [
+      10.336,
+      0.08
+    ],
+    "code": "H6",
+    "sourceKey": "pacific_pier"
+  },
+  {
+    "id": "little-meerkat",
+    "name": "Little Meerkat and Giant Tortoise Adventure",
+    "side": "waterfront",
+    "zone": "Whiskers Harbour",
+    "category": "animal",
+    "lat": 22.244581,
+    "lng": 114.177456,
+    "blurb": "Meet the meerkats and Aldabra giant tortoises up close.",
+    "position": [
+      -11.456,
+      -12.416
+    ],
+    "code": "A5",
+    "sourceKey": "meerkat"
+  },
+  {
+    "id": "dive-into-local-diversity",
+    "name": "Dive Into Local Diversity",
+    "side": "waterfront",
+    "zone": "Amazing Asian Animals",
+    "category": "animal",
+    "lat": 22.245309,
+    "lng": 114.176777,
+    "blurb": "Hong Kong's own freshwater creatures, from newts to turtles.",
+    "position": [
+      -12.368,
+      -6.688
+    ],
+    "code": "B5",
+    "sourceKey": "dld"
+  },
+  {
+    "id": "sloth-and-friends",
+    "name": "Sloth and Friends Studio",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "animal",
+    "lat": 22.246301,
+    "lng": 114.176211,
+    "blurb": "Two-toed sloths and other rainforest friends in an indoor studio.",
+    "position": [
+      -13.552,
+      -1.536
+    ],
+    "code": "C12",
+    "sourceKey": "sloth"
+  },
+  {
+    "id": "south-pole-spectacular",
+    "name": "Monkey Tree presents South Pole Spectacular",
+    "side": "summit",
+    "zone": "Polar Adventure",
+    "category": "animal",
+    "lat": 22.235366,
+    "lng": 114.1715,
+    "blurb": "King, gentoo and rockhopper penguins in an icy Antarctic landscape.",
+    "position": [
+      -2.7840000000000003,
+      -4.72
+    ],
+    "code": "D2",
+    "sourceKey": "south_pole"
+  },
+  {
+    "id": "north-pole-encounter",
+    "name": "North Pole Encounter",
+    "side": "summit",
+    "zone": "Polar Adventure",
+    "category": "animal",
+    "lat": 22.235055,
+    "lng": 114.171803,
+    "blurb": "Arctic habitats with spotted seals and walruses.",
+    "position": [
+      -0.896,
+      -5.344
+    ],
+    "code": "D3",
+    "sourceKey": "north_pole"
+  },
+  {
+    "id": "sea-jelly-spectacular",
+    "name": "Sea Jelly Spectacular",
+    "side": "summit",
+    "zone": "Marine World",
+    "category": "animal",
+    "lat": 22.233397,
+    "lng": 114.172332,
+    "blurb": "Glowing sea jellies set to light and music.",
+    "position": [
+      6.5600000000000005,
+      -9.808
+    ],
+    "code": "H2",
+    "sourceKey": "sea_jelly"
+  },
+  {
+    "id": "shark-mystique",
+    "name": "Shark Mystique",
+    "side": "summit",
+    "zone": "Marine World",
+    "category": "animal",
+    "lat": 22.232329,
+    "lng": 114.172479,
+    "blurb": "Walk through a tunnel surrounded by sharks and rays.",
+    "position": [
+      9.872,
+      -10.608
+    ],
+    "code": "H3",
+    "sourceKey": "shark_mystique"
+  },
+  {
+    "id": "expedition-trail",
+    "name": "Expedition Trail",
+    "side": "summit",
+    "zone": "Rainforest",
+    "category": "exhibit",
+    "lat": 22.233997,
+    "lng": 114.171646,
+    "blurb": "A walk through the Amazon rainforest: macaws, poison dart frogs and capybaras.",
+    "position": [
+      4.912,
+      -5.184
+    ],
+    "code": "E4",
+    "sourceKey": "expedition_trail"
+  },
+  {
+    "id": "croco-land",
+    "name": "China Construction Bank (Asia) presents Croco Land",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "animal",
+    "lat": 22.247924,
+    "lng": 114.174837,
+    "blurb": "Crocodiles basking in a tropical pool near the main entrance.",
+    "position": [
+      -12.336,
+      7.776
+    ],
+    "code": "C2",
+    "sourceKey": "crocoland"
+  },
+  {
+    "id": "grand-aquarium",
+    "name": "The Grand Aquarium",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "animal",
+    "lat": 22.246267,
+    "lng": 114.174604,
+    "blurb": "Walk beneath a dome of 5,000 fish, sharks and rays in one of Asia's largest aquariums.",
+    "position": [
+      -6.112,
+      3.424
+    ],
+    "code": "C5",
+    "sourceKey": "grand_aquarium"
+  },
+  {
+    "id": "reptile-territory",
+    "name": "Reptile Territory",
+    "side": "summit",
+    "zone": "Rainforest",
+    "category": "animal",
+    "lat": 22.234318,
+    "lng": 114.171556,
+    "blurb": "Iguanas, skinks and other reptiles in a temple-ruin exhibit.",
+    "position": [
+      3.648,
+      -4.032
+    ],
+    "code": "E6",
+    "sourceKey": "reptile"
+  },
+  {
+    "id": "ocean-express-waterfront",
+    "name": "Ocean Express (The Waterfront)",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "transport",
+    "lat": 22.245659,
+    "lng": 114.175897,
+    "blurb": "Board the funicular for a 3-minute ride up through the mountain to the Summit.",
+    "position": [
+      -10.48,
+      -2.736
+    ],
+    "code": "C8",
+    "sourceKey": "oe_up"
+  },
+  {
+    "id": "ocean-express-summit",
+    "name": "Ocean Express (The Summit)",
+    "side": "summit",
+    "zone": "Rainforest",
+    "category": "transport",
+    "lat": 22.234539,
+    "lng": 114.170751,
+    "blurb": "The Summit terminus of the Ocean Express funicular.",
+    "position": [
+      0.384,
+      0.752
+    ],
+    "code": "E1",
+    "sourceKey": "oe_down"
+  },
+  {
+    "id": "cable-car-waterfront",
+    "name": "Cable Car (The Waterfront)",
+    "side": "waterfront",
+    "zone": "Whiskers Harbour",
+    "category": "transport",
+    "lat": 22.246596,
+    "lng": 114.175907,
+    "blurb": "Ride the cable car over the hillside and along the coast to the Summit.",
+    "position": [
+      -16.048000000000002,
+      -0.064
+    ],
+    "code": "C13",
+    "sourceKey": "cable_car_up"
+  },
+  {
+    "id": "cable-car-summit",
+    "name": "Cable Car (The Summit)",
+    "side": "summit",
+    "zone": "Marine World",
+    "category": "transport",
+    "lat": 22.233578,
+    "lng": 114.171353,
+    "blurb": "The Summit end of the cable car, back down to the Waterfront.",
+    "position": [
+      7.936,
+      -3.552
+    ],
+    "code": "H1",
+    "sourceKey": "cable_car_down"
+  },
+  {
+    "id": "talking-tree",
+    "name": "Talking Tree",
+    "side": "waterfront",
+    "zone": "Whiskers Harbour",
+    "category": "show",
+    "lat": 22.245329,
+    "lng": 114.177139,
+    "blurb": "A friendly old tree that chats with young visitors at the edge of Whiskers Harbour.",
+    "position": [
+      -14.864,
+      -8.16
+    ],
+    "code": "A1"
+  },
+  {
+    "id": "whiskers-theatre",
+    "name": "Whiskers Theatre",
+    "side": "waterfront",
+    "zone": "Whiskers Harbour",
+    "category": "show",
+    "lat": 22.245011,
+    "lng": 114.17727,
+    "blurb": "Indoor theatre for Whiskers and friends' character shows.",
+    "position": [
+      -13.712,
+      -9.872
+    ],
+    "code": "A3"
+  },
+  {
+    "id": "village-station",
+    "name": "Village Station",
+    "side": "waterfront",
+    "zone": "Whiskers Harbour",
+    "category": "ride",
+    "lat": 22.244413,
+    "lng": 114.177436,
+    "blurb": "Hop aboard at the little station in the heart of Whiskers Village.",
+    "position": [
+      -9.984,
+      -10.48
+    ],
+    "code": "A9"
+  },
+  {
+    "id": "whiskers-village",
+    "name": "Whiskers Village Activity Centre",
+    "side": "waterfront",
+    "zone": "Whiskers Harbour",
+    "category": "exhibit",
+    "lat": 22.244578,
+    "lng": 114.177342,
+    "blurb": "Indoor activity centre with seasonal hands-on workshops for families.",
+    "position": [
+      -10.864,
+      -10.4
+    ],
+    "code": "A10"
+  },
+  {
+    "id": "explorer-r",
+    "name": "Explorer R",
+    "side": "waterfront",
+    "zone": "Whiskers Harbour",
+    "category": "ride",
+    "lat": 22.244155,
+    "lng": 114.177702,
+    "blurb": "Kids' ride on the harbour's eastern edge.",
+    "position": [
+      -7.92,
+      -10.864
+    ]
+  },
+  {
+    "id": "bamboo-zone",
+    "name": "Bamboo Zone",
+    "side": "waterfront",
+    "zone": "Amazing Asian Animals",
+    "category": "animal",
+    "lat": 22.245688,
+    "lng": 114.176302,
+    "blurb": "Bamboo groves and outdoor stage where Asian animal keepers give talks.",
+    "position": [
+      -13.024000000000001,
+      -4.88
+    ],
+    "code": "B1"
+  },
+  {
+    "id": "gator-marsh",
+    "name": "Gator Marsh",
+    "side": "waterfront",
+    "zone": "Amazing Asian Animals",
+    "category": "animal",
+    "lat": 22.245456,
+    "lng": 114.176477,
+    "blurb": "Home to rare Chinese alligators in a lush marsh habitat.",
+    "position": [
+      -12.464,
+      -5.712
+    ],
+    "code": "B2"
+  },
+  {
+    "id": "panda-village",
+    "name": "Panda Village",
+    "side": "waterfront",
+    "zone": "Amazing Asian Animals",
+    "category": "animal",
+    "lat": 22.245544,
+    "lng": 114.176711,
+    "blurb": "Asian small-clawed otters and birds beside the giant pandas.",
+    "position": [
+      -14.144,
+      -6.32
+    ],
+    "code": "B4"
+  },
+  {
+    "id": "marks-mine",
+    "name": "Mark's Mine",
+    "side": "waterfront",
+    "zone": "Amazing Asian Animals",
+    "category": "exhibit",
+    "lat": 22.245058,
+    "lng": 114.176894,
+    "blurb": "Mine-themed exhibit along the Eco-Herbal Trail.",
+    "position": [
+      -11.008000000000001,
+      -7.184
+    ]
+  },
+  {
+    "id": "ocean-square",
+    "name": "Ocean Square",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "exhibit",
+    "lat": 22.247939,
+    "lng": 114.174538,
+    "blurb": "The main entrance plaza, with ticketing, lockers and the park gates.",
+    "position": [
+      -11.584,
+      8.288
+    ],
+    "code": "C1"
+  },
+  {
+    "id": "conservation-kiosk",
+    "name": "Conservation Kiosk",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "exhibit",
+    "lat": 22.247666,
+    "lng": 114.174681,
+    "blurb": "Learn how Ocean Park's conservation foundation protects wildlife.",
+    "position": [
+      -11.472,
+      7.312
+    ],
+    "code": "C3"
+  },
+  {
+    "id": "aqua-city-lagoon",
+    "name": "Aqua City Lagoon",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "show",
+    "lat": 22.246868,
+    "lng": 114.174563,
+    "blurb": "The lagoon stage for Aqua City's evening water, light and fire show.",
+    "position": [
+      -9.248,
+      4.496
+    ],
+    "code": "C4"
+  },
+  {
+    "id": "applause-pavilion",
+    "name": "Applause Pavilion",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "show",
+    "lat": 22.24588,
+    "lng": 114.175567,
+    "blurb": "Aqua City's pavilion for live shows and animal encounters.",
+    "position": [
+      -9.664,
+      -0.96
+    ],
+    "code": "C7"
+  },
+  {
+    "id": "waterfront-plaza",
+    "name": "Waterfront Plaza",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "exhibit",
+    "lat": 22.245929,
+    "lng": 114.176082,
+    "blurb": "Open plaza between the Ocean Express station and Old Hong Kong.",
+    "position": [
+      -11.344,
+      -1.92
+    ],
+    "code": "C9"
+  },
+  {
+    "id": "marine-life-stranding",
+    "name": "Hong Kong Marine Life Stranding and Education Centre",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "exhibit",
+    "lat": 22.244543,
+    "lng": 114.175214,
+    "blurb": "Where rescued whales, dolphins and turtles are cared for. Guided tours only.",
+    "position": [
+      -7.12,
+      -3.168
+    ],
+    "code": "C14"
+  },
+  {
+    "id": "summit-plaza",
+    "name": "Summit Plaza",
+    "side": "summit",
+    "zone": "Rainforest",
+    "category": "exhibit",
+    "lat": 22.234303,
+    "lng": 114.170868,
+    "blurb": "The Summit's central plaza, beside the Ocean Express station.",
+    "position": [
+      3.2960000000000003,
+      0.72
+    ],
+    "code": "E2"
+  },
+  {
+    "id": "rainforest-why-zone",
+    "name": "Rainforest Why Zone",
+    "side": "summit",
+    "zone": "Rainforest",
+    "category": "exhibit",
+    "lat": 22.234108,
+    "lng": 114.17106,
+    "blurb": "Hands-on rainforest discovery zone for curious kids.",
+    "position": [
+      4.368,
+      -1.12
+    ],
+    "code": "E3"
+  },
+  {
+    "id": "veterinary-centre",
+    "name": "Veterinary Centre",
+    "side": "summit",
+    "zone": "Marine World",
+    "category": "exhibit",
+    "lat": 22.232464,
+    "lng": 114.170297,
+    "blurb": "Ocean Park's animal hospital, where vets care for the park's animals.",
+    "position": [
+      12.64,
+      -1.92
+    ],
+    "code": "H11"
+  },
+  {
+    "id": "escalator-thrill-mountain",
+    "name": "Thrill Mountain Escalator",
+    "side": "summit",
+    "zone": "Rainforest",
+    "category": "transport",
+    "lat": 22.234494,
+    "lng": 114.170948,
+    "blurb": "Covered escalator linking Summit Plaza and the Ocean Express with Thrill Mountain.",
+    "position": [
+      1.712,
+      -0.432
+    ]
+  },
+  {
+    "id": "escalator-grand-aquarium",
+    "name": "Grand Aquarium Escalator",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "transport",
+    "lat": 22.246342,
+    "lng": 114.174653,
+    "blurb": "Covered escalator up to The Grand Aquarium entrance.",
+    "position": [
+      -6.288,
+      3.888
+    ]
+  },
+  {
+    "id": "escalator-water-world",
+    "name": "Escalator to Water World",
+    "side": "summit",
+    "zone": "Marine World",
+    "category": "transport",
+    "lat": 22.232929,
+    "lng": 114.169435,
+    "blurb": "Escalator from Pacific Pier down toward Tai Shue Wan and Water World.",
+    "position": [
+      12.256,
+      2.032
+    ]
+  },
+  {
+    "id": "escalator-bus-interchange",
+    "name": "Escalator to Bus Interchange",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "transport",
+    "lat": 22.247851,
+    "lng": 114.17401,
+    "blurb": "Escalator between Ocean Square and the public bus interchange.",
+    "position": [
+      -10.272,
+      9.040000000000001
+    ]
+  },
+  {
+    "id": "escalator-hotel",
+    "name": "Escalator to Hotel and Car Park",
+    "side": "waterfront",
+    "zone": "Aqua City",
+    "category": "transport",
+    "lat": 22.248142,
+    "lng": 114.17506,
+    "blurb": "Escalator between Ocean Square, the hotel and the car park.",
+    "position": [
+      -13.712,
+      8.304
+    ]
+  }
+]

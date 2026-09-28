@@ -1,0 +1,378 @@
+{
+  "_note": "Park-sheet legend. Attractions missing from the interactive map's attractions.json, the sheet's escalators, and a blurb and legend code for every place. Pixel x,y are on the 2678x2190 sheet, traced from the numbered markers and the park's own reference points.",
+  "attractions": [
+    {
+      "id": "talking-tree",
+      "name": "Talking Tree",
+      "zone": "Whiskers Harbour",
+      "category": "show",
+      "x": 410,
+      "y": 585
+    },
+    {
+      "id": "whiskers-theatre",
+      "name": "Whiskers Theatre",
+      "zone": "Whiskers Harbour",
+      "category": "show",
+      "x": 482,
+      "y": 478
+    },
+    {
+      "id": "village-station",
+      "name": "Village Station",
+      "zone": "Whiskers Harbour",
+      "category": "ride",
+      "x": 715,
+      "y": 440
+    },
+    {
+      "id": "whiskers-village",
+      "name": "Whiskers Village Activity Centre",
+      "zone": "Whiskers Harbour",
+      "category": "exhibit",
+      "x": 660,
+      "y": 445
+    },
+    {
+      "id": "explorer-r",
+      "name": "Explorer R",
+      "zone": "Whiskers Harbour",
+      "category": "ride",
+      "x": 844,
+      "y": 416
+    },
+    {
+      "id": "bamboo-zone",
+      "name": "Bamboo Zone",
+      "zone": "Amazing Asian Animals",
+      "category": "animal",
+      "x": 525,
+      "y": 790
+    },
+    {
+      "id": "gator-marsh",
+      "name": "Gator Marsh",
+      "zone": "Amazing Asian Animals",
+      "category": "animal",
+      "x": 560,
+      "y": 738
+    },
+    {
+      "id": "panda-village",
+      "name": "Panda Village",
+      "zone": "Amazing Asian Animals",
+      "category": "animal",
+      "x": 455,
+      "y": 700
+    },
+    {
+      "id": "marks-mine",
+      "name": "Mark's Mine",
+      "zone": "Amazing Asian Animals",
+      "category": "exhibit",
+      "x": 651,
+      "y": 646
+    },
+    {
+      "id": "ocean-square",
+      "name": "Ocean Square",
+      "zone": "Aqua City",
+      "category": "exhibit",
+      "x": 615,
+      "y": 1613
+    },
+    {
+      "id": "conservation-kiosk",
+      "name": "Conservation Kiosk",
+      "zone": "Aqua City",
+      "category": "exhibit",
+      "x": 622,
+      "y": 1552
+    },
+    {
+      "id": "aqua-city-lagoon",
+      "name": "Aqua City Lagoon",
+      "zone": "Aqua City",
+      "category": "show",
+      "x": 761,
+      "y": 1376
+    },
+    {
+      "id": "applause-pavilion",
+      "name": "Applause Pavilion",
+      "zone": "Aqua City",
+      "category": "show",
+      "x": 735,
+      "y": 1035
+    },
+    {
+      "id": "waterfront-plaza",
+      "name": "Waterfront Plaza",
+      "zone": "Aqua City",
+      "category": "exhibit",
+      "x": 630,
+      "y": 975
+    },
+    {
+      "id": "marine-life-stranding",
+      "name": "Hong Kong Marine Life Stranding and Education Centre",
+      "zone": "Aqua City",
+      "category": "exhibit",
+      "x": 894,
+      "y": 897
+    },
+    {
+      "id": "summit-plaza",
+      "name": "Summit Plaza",
+      "zone": "Rainforest",
+      "category": "exhibit",
+      "x": 1545,
+      "y": 1140
+    },
+    {
+      "id": "rainforest-why-zone",
+      "name": "Rainforest Why Zone",
+      "zone": "Rainforest",
+      "category": "exhibit",
+      "x": 1612,
+      "y": 1025
+    },
+    {
+      "id": "veterinary-centre",
+      "name": "Veterinary Centre",
+      "zone": "Marine World",
+      "category": "exhibit",
+      "x": 2129,
+      "y": 975
+    }
+  ],
+  "escalators": [
+    {
+      "id": "escalator-thrill-mountain",
+      "name": "Thrill Mountain Escalator",
+      "zone": "Rainforest",
+      "points": [
+        [
+          1486,
+          1112
+        ],
+        [
+          1446,
+          1068
+        ],
+        [
+          1406,
+          1022
+        ]
+      ]
+    },
+    {
+      "id": "escalator-grand-aquarium",
+      "name": "Grand Aquarium Escalator",
+      "zone": "Aqua City",
+      "points": [
+        [
+          905,
+          1368
+        ],
+        [
+          946,
+          1338
+        ],
+        [
+          986,
+          1306
+        ]
+      ]
+    },
+    {
+      "id": "escalator-water-world",
+      "name": "Escalator to Water World",
+      "zone": "Marine World",
+      "points": [
+        [
+          2165,
+          1276
+        ],
+        [
+          2105,
+          1222
+        ],
+        [
+          2045,
+          1172
+        ]
+      ]
+    },
+    {
+      "id": "escalator-bus-interchange",
+      "name": "Escalator to Bus Interchange",
+      "zone": "Aqua City",
+      "points": [
+        [
+          652,
+          1668
+        ],
+        [
+          697,
+          1660
+        ],
+        [
+          716,
+          1632
+        ]
+      ]
+    },
+    {
+      "id": "escalator-hotel",
+      "name": "Escalator to Hotel and Car Park",
+      "zone": "Aqua City",
+      "points": [
+        [
+          458,
+          1630
+        ],
+        [
+          482,
+          1614
+        ],
+        [
+          506,
+          1598
+        ]
+      ]
+    }
+  ],
+  "codes": {
+    "talking-tree": "A1",
+    "toto-the-loco": "A2",
+    "whiskers-theatre": "A3",
+    "merry-go-round": "A4",
+    "little-meerkat": "A5",
+    "castle-of-redd": "A6",
+    "balloons": "A7",
+    "jungle-of-giants": "A8",
+    "village-station": "A9",
+    "whiskers-village": "A10",
+    "whiskers-herbal-valley": "A11",
+    "bamboo-zone": "B1",
+    "gator-marsh": "B2",
+    "giant-panda-adventure": "B3",
+    "panda-village": "B4",
+    "dive-into-local-diversity": "B5",
+    "eco-herbal-trail": "B6",
+    "ocean-square": "C1",
+    "croco-land": "C2",
+    "conservation-kiosk": "C3",
+    "aqua-city-lagoon": "C4",
+    "grand-aquarium": "C5",
+    "sichuan-treasures": "C6",
+    "applause-pavilion": "C7",
+    "ocean-express-waterfront": "C8",
+    "waterfront-plaza": "C9",
+    "old-hong-kong": "C10",
+    "sea-life-carousel": "C11",
+    "sloth-and-friends": "C12",
+    "cable-car-waterfront": "C13",
+    "marine-life-stranding": "C14",
+    "arctic-blast": "D1",
+    "south-pole-spectacular": "D2",
+    "north-pole-encounter": "D3",
+    "ocean-express-summit": "E1",
+    "summit-plaza": "E2",
+    "rainforest-why-zone": "E3",
+    "expedition-trail": "E4",
+    "the-rapids": "E5",
+    "reptile-territory": "E6",
+    "the-flash": "F1",
+    "whirly-bird": "F2",
+    "rev-booster": "F3",
+    "bumper-blaster": "F4",
+    "hair-raiser": "F5",
+    "cable-car-summit": "H1",
+    "sea-jelly-spectacular": "H2",
+    "shark-mystique": "H3",
+    "dolphin-explorations": "H4",
+    "ocean-park-tower": "H5",
+    "pacific-pier": "H6",
+    "flying-swing": "H7",
+    "ferris-wheel": "H8",
+    "crazy-galleon": "H9",
+    "wild-twister": "H10",
+    "veterinary-centre": "H11",
+    "marine-mammal-centre": "H12"
+  },
+  "blurbs": {
+    "talking-tree": "A friendly old tree that chats with young visitors at the edge of Whiskers Harbour.",
+    "toto-the-loco": "A gentle kiddie train that loops through Whiskers Harbour.",
+    "whiskers-theatre": "Indoor theatre for Whiskers and friends' character shows.",
+    "merry-go-round": "Classic carousel with painted horses in the middle of Whiskers Harbour.",
+    "little-meerkat": "Meet the meerkats and Aldabra giant tortoises up close.",
+    "castle-of-redd": "Soft-play castle with slides, tunnels and climbing nets for kids.",
+    "balloons": "Ride hot-air-balloon gondolas round and round above the harbour.",
+    "jungle-of-giants": "A giant jungle playground with oversized plants and climbing frames.",
+    "village-station": "Hop aboard at the little station in the heart of Whiskers Village.",
+    "whiskers-village": "Indoor activity centre with seasonal hands-on workshops for families.",
+    "explorer-r": "Kids' ride on the harbour's eastern edge.",
+    "whiskers-herbal-valley": "A garden of herbs and plants to see, touch and smell.",
+    "bamboo-zone": "Bamboo groves and outdoor stage where Asian animal keepers give talks.",
+    "gator-marsh": "Home to rare Chinese alligators in a lush marsh habitat.",
+    "giant-panda-adventure": "Meet the giant pandas, red pandas and Chinese giant salamanders in a Sichuan-style home.",
+    "panda-village": "Asian small-clawed otters and birds beside the giant pandas.",
+    "dive-into-local-diversity": "Hong Kong's own freshwater creatures, from newts to turtles.",
+    "marks-mine": "Mine-themed exhibit along the Eco-Herbal Trail.",
+    "eco-herbal-trail": "A shaded walking trail up to a waterfall, lined with Chinese herbal plants.",
+    "ocean-square": "The main entrance plaza, with ticketing, lockers and the park gates.",
+    "croco-land": "Crocodiles basking in a tropical pool near the main entrance.",
+    "conservation-kiosk": "Learn how Ocean Park's conservation foundation protects wildlife.",
+    "aqua-city-lagoon": "The lagoon stage for Aqua City's evening water, light and fire show.",
+    "grand-aquarium": "Walk beneath a dome of 5,000 fish, sharks and rays in one of Asia's largest aquariums.",
+    "sichuan-treasures": "Golden snub-nosed monkeys and Sichuan wildlife in a mountain-forest setting.",
+    "applause-pavilion": "Aqua City's pavilion for live shows and animal encounters.",
+    "ocean-express-waterfront": "Board the funicular for a 3-minute ride up through the mountain to the Summit.",
+    "waterfront-plaza": "Open plaza between the Ocean Express station and Old Hong Kong.",
+    "old-hong-kong": "Step back to 1950s–70s Hong Kong: shophouses, snacks and street games.",
+    "sea-life-carousel": "A carousel of ocean animals, with seals, dolphins and sea turtles to ride.",
+    "sloth-and-friends": "Two-toed sloths and other rainforest friends in an indoor studio.",
+    "cable-car-waterfront": "Ride the cable car over the hillside and along the coast to the Summit.",
+    "marine-life-stranding": "Where rescued whales, dolphins and turtles are cared for. Guided tours only.",
+    "arctic-blast": "A family roller coaster racing through polar ice caves.",
+    "south-pole-spectacular": "King, gentoo and rockhopper penguins in an icy Antarctic landscape.",
+    "north-pole-encounter": "Arctic habitats with spotted seals and walruses.",
+    "ocean-express-summit": "The Summit terminus of the Ocean Express funicular.",
+    "summit-plaza": "The Summit's central plaza, beside the Ocean Express station.",
+    "rainforest-why-zone": "Hands-on rainforest discovery zone for curious kids.",
+    "expedition-trail": "A walk through the Amazon rainforest: macaws, poison dart frogs and capybaras.",
+    "the-rapids": "Whitewater river rafting through the rainforest — you will get wet!",
+    "reptile-territory": "Iguanas, skinks and other reptiles in a temple-ruin exhibit.",
+    "the-flash": "A spinning pendulum ride that flips you upside down at speed.",
+    "whirly-bird": "Swing chairs that fly high around a spinning tower.",
+    "rev-booster": "A giant spinning arm that rotates riders 360°.",
+    "bumper-blaster": "Classic bumper cars under the Thrill Mountain canopy.",
+    "hair-raiser": "A floorless coaster at 88 km/h with five inversions over the South China Sea.",
+    "cable-car-summit": "The Summit end of the cable car, back down to the Waterfront.",
+    "sea-jelly-spectacular": "Glowing sea jellies set to light and music.",
+    "shark-mystique": "Walk through a tunnel surrounded by sharks and rays.",
+    "dolphin-explorations": "Watch Indo-Pacific bottlenose dolphins at play in outdoor pools.",
+    "ocean-park-tower": "A revolving cabin climbs 72 metres for 360° views of the South China Sea.",
+    "pacific-pier": "Seals and sea lions on a California-style rocky pier.",
+    "flying-swing": "Swing chairs that fly out over the Marine World headland.",
+    "ferris-wheel": "The Summit's Ferris wheel, with gondolas high above the sea.",
+    "crazy-galleon": "A pirate ship that swings you high above the cliffs.",
+    "wild-twister": "Spin, twist and tilt on the Marine World thrill ride.",
+    "veterinary-centre": "Ocean Park's animal hospital, where vets care for the park's animals.",
+    "marine-mammal-centre": "Behind-the-scenes centre for marine mammal breeding and research.",
+    "escalator-thrill-mountain": "Covered escalator linking Summit Plaza and the Ocean Express with Thrill Mountain.",
+    "escalator-grand-aquarium": "Covered escalator up to The Grand Aquarium entrance.",
+    "escalator-water-world": "Escalator from Pacific Pier down toward Tai Shue Wan and Water World.",
+    "escalator-bus-interchange": "Escalator between Ocean Square and the public bus interchange.",
+    "escalator-hotel": "Escalator between Ocean Square, the hotel and the car park."
+  },
+  "overrides": {
+    "_note": "Feed pins that sit off their attraction on the printed sheet, moved onto it (sheet px).",
+    "pacific-pier": [
+      1985,
+      1100
+    ]
+  }
+}

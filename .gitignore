@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.DS_Store
+
+# Grok build logs
+grok-*.log
+grok-*.err
+
+# Dev-tool feedback (local notes and screenshots)
+feedback/
+
+# Official Ocean Park map artwork: layout reference only, not ours to publish.
+# Re-download it with the in-app DEV → Official map → "Update map".
+refs/*.png
+refs/*.jpg

@@ -1,0 +1,22 @@
+{
+  "name": "ocean-park-map",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "check": "vite-node scripts/check.ts",
+    "sync-map": "vite-node scripts/build-layout.ts"
+  },
+  "dependencies": {
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.170.0",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.3",
+    "vite-node": "^2.1.8"
+  }
+}

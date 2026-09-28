@@ -1,0 +1,12 @@
+{
+  "name": "Ocean Park Map",
+  "short_name": "Ocean Park",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3dcedc",
+  "theme_color": "#0e7c88",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
